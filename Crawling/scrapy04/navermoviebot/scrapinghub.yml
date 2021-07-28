@@ -1,0 +1,3 @@
+project: 543875
+stacks:
+  shub logindefault: scrapy:1.4-py3

@@ -1,0 +1,1 @@
+([('app', '/Users/bagdaemin/python/FlaskServer/dist/app', 'EXECUTABLE')],)

@@ -1,0 +1,4 @@
+DIALOG_CONFIG={
+'PROJECT_ID':'zzikgobot-frgj',
+'GOOGLE_APPLICATION_CREDENTIALS':'zzikgobot-frgj-4303f42f2403.json'
+}

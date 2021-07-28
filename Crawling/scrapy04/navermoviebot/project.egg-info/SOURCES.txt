@@ -1,0 +1,13 @@
+setup.py
+navermoviebot/__init__.py
+navermoviebot/items.py
+navermoviebot/middlewares.py
+navermoviebot/pipelines.py
+navermoviebot/settings.py
+navermoviebot/spiders/__init__.py
+navermoviebot/spiders/navermoviespider.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt

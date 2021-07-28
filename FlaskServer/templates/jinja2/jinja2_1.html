@@ -1,0 +1,17 @@
+<!--
+jinja2.html템플릿 파일을 상속받는다
+{#
+  {% extends '상속받을 html파일명' %}
+
+
+#}
+-->
+  {% extends 'jinja2/jinja2.html' %}
+  {% block mycontent %}
+    <h2>올해는 {{number}}년 입니다.</h2>
+    {% if number % 2 ==0 %}
+      <h4>올해는 짝수해 입니다.</h4>
+    {% elif number % 2 !=0 %}
+      <h4>올해는 홀수해 입니다.</h4>
+    {% endif %}
+  {% endblock %}

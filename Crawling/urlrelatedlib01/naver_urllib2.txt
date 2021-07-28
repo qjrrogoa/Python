@@ -1,0 +1,2942 @@
+
+<!doctype html>                          <html lang="ko" data-dark="false"> <head> <meta charset="utf-8"> <title>NAVER</title> <meta http-equiv="X-UA-Compatible" content="IE=edge"> <meta name="viewport" content="width=1190"> <meta name="apple-mobile-web-app-title" content="NAVER"/> <meta name="robots" content="index,nofollow"/> <meta name="description" content="네이버 메인에서 다양한 정보와 유용한 컨텐츠를 만나 보세요"/> <meta property="og:title" content="네이버"> <meta property="og:url" content="https://www.naver.com/"> <meta property="og:image" content="https://s.pstatic.net/static/www/mobile/edit/2016/0705/mobile_212852414260.png"> <meta property="og:description" content="네이버 메인에서 다양한 정보와 유용한 컨텐츠를 만나 보세요"/> <meta name="twitter:card" content="summary"> <meta name="twitter:title" content=""> <meta name="twitter:url" content="https://www.naver.com/"> <meta name="twitter:image" content="https://s.pstatic.net/static/www/mobile/edit/2016/0705/mobile_212852414260.png"> <meta name="twitter:description" content="네이버 메인에서 다양한 정보와 유용한 컨텐츠를 만나 보세요"/>  <link rel="stylesheet" href="https://pm.pstatic.net/dist/css/nmain.20210715.css"> <link rel="stylesheet" href="https://ssl.pstatic.net/sstatic/search/pc/css/sp_autocomplete_210318.css"> <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?1"/>  <link rel="apple-touch-icon" sizes="114x114" href="https://s.pstatic.net/static/www/u/2014/0328/mma_204243574.png"/> <link rel="apple-touch-icon" href="https://s.pstatic.net/static/www/u/2014/0328/mma_20432863.png"/> <script>document.domain="naver.com",window.nmain=window.nmain||{},window.nmain.supportFlicking=!1;var nsc="navertop.v4",ua=navigator.userAgent;window.nmain.isIE=navigator.appName&&navigator.appName.indexOf("Explorer")>0&&ua.toLocaleLowerCase().indexOf("msie 10.0")<0,document.getElementsByTagName("html")[0].setAttribute("data-useragent",ua),window.nmain.isIE&&(Object.create=function(n){function a(){}return a.prototype=n,new a})</script> <script>var darkmode= false;window.naver_corp_da=window.naver_corp_da||{main:{}},window.naver_corp_da.main=window.naver_corp_da.main||{},window.naver_corp_da.main.darkmode=darkmode,window.gladsdk=window.gladsdk||{cmd:[]},window.gladsdk.cmd.push((function(){window.gladsdk.setHostMeta("theme",darkmode?"dark":"light")}))</script> <script> window.nmain.gv = {  isLogin: false,
+useId: null,   daInfo: {"ANIMAL":{"menu":"ANIMAL","childMenu":"","adType":"singleDom","multiDomAdUrl":"","multiDomUnit":"","infoList":[{"adposId":"1000161","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_animal_1","tb":"ANIMAL_1","unit":"SU10567","calp":"-"},"type":{"position":"abs","positionIndex":4,"subject":"contents"},"dom":null},{"adposId":"1000162","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_animal_2","tb":"ANIMAL_1","unit":"SU10568","calp":"-"},"type":{"position":"abs","positionIndex":8,"subject":"contents"},"dom":null}]},"BEAUTY":{"menu":"BEAUTY","childMenu":"","adType":"singleDom","multiDomAdUrl":"","multiDomUnit":"","infoList":[{"adposId":"1000163","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_beauty_1","tb":"BEAUTY_1","unit":"SU10595","calp":"-"},"type":{"position":"abs","positionIndex":4,"subject":"contents"},"dom":null},{"adposId":"1000164","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_beauty_2","tb":"BEAUTY_1","unit":"SU10596","calp":"-"},"type":{"position":"abs","positionIndex":8,"subject":"contents"},"dom":null}]},"BUSINESS":{"menu":"BUSINESS","childMenu":"","adType":"singleDom","multiDomAdUrl":"","multiDomUnit":"","infoList":[{"adposId":"1000165","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_business_1","tb":"BUSINESS_1","unit":"SU10577","calp":"-"},"type":{"position":"abs","positionIndex":4,"subject":"contents"},"dom":null},{"adposId":"1000166","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_business_2","tb":"BUSINESS_1","unit":"SU10578","calp":"-"},"type":{"position":"abs","positionIndex":8,"subject":"contents"},"dom":null}]},"CARGAME":{"menu":"CARGAME","childMenu":"","adType":"singleDom","multiDomAdUrl":"","multiDomUnit":"","infoList":[{"adposId":"1000167","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_cargame_1","tb":"CARGAME_1","unit":"SU10587","calp":"-"},"type":{"position":"abs","positionIndex":4,"subject":"contents"},"dom":null},{"adposId":"1000168","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_cargame_2","tb":"CARGAME_1","unit":"SU10588","calp":"-"},"type":{"position":"abs","positionIndex":8,"subject":"contents"},"dom":null}]},"CHINA":{"menu":"CHINA","childMenu":"","adType":"singleDom","multiDomAdUrl":"","multiDomUnit":"","infoList":[{"adposId":"1000169","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_china_1","tb":"CHINA_1","unit":"SU10591","calp":"-"},"type":{"position":"abs","positionIndex":4,"subject":"contents"},"dom":null},{"adposId":"1000170","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_china_2","tb":"CHINA_1","unit":"SU10592","calp":"-"},"type":{"position":"abs","positionIndex":8,"subject":"contents"},"dom":null}]},"DESIGN":{"menu":"DESIGN","childMenu":"","adType":"singleDom","multiDomAdUrl":"","multiDomUnit":"","infoList":[{"adposId":"1000171","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_design_1","tb":"DESIGN_1","unit":"SU10569","calp":"-"},"type":{"position":"abs","positionIndex":4,"subject":"contents"},"dom":null},{"adposId":"1000172","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_design_2","tb":"DESIGN_1","unit":"SU10570","calp":"-"},"type":{"position":"abs","positionIndex":8,"subject":"contents"},"dom":null}]},"FARM":{"menu":"FARM","childMenu":"","adType":"singleDom","multiDomAdUrl":"","multiDomUnit":"","infoList":[{"adposId":"1000173","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_farm_1","tb":"FARM_1","unit":"SU10561","calp":"-"},"type":{"position":"abs","positionIndex":4,"subject":"contents"},"dom":null},{"adposId":"1000174","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_farm_2","tb":"FARM_1","unit":"SU10562","calp":"-"},"type":{"position":"abs","positionIndex":8,"subject":"contents"},"dom":null}]},"FINANCE":{"menu":"FINANCE","childMenu":"","adType":"singleDom","multiDomAdUrl":"","multiDomUnit":"","infoList":[{"adposId":"1000175","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_finance_1","tb":"FINANCE_1","unit":"SU10563","calp":"-"},"type":{"position":"abs","positionIndex":4,"subject":"contents"},"dom":null},{"adposId":"1000176","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_finance_2","tb":"FINANCE_1","unit":"SU10564","calp":"-"},"type":{"position":"abs","positionIndex":8,"subject":"contents"},"dom":null}]},"ITTECH":{"menu":"ITTECH","childMenu":"","adType":"singleDom","multiDomAdUrl":"","multiDomUnit":"","infoList":[{"adposId":"1000177","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_ittech_1","tb":"ITTECH_1","unit":"SU10593","calp":"-"},"type":{"position":"abs","positionIndex":4,"subject":"contents"},"dom":null},{"adposId":"1000178","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_ittech_2","tb":"ITTECH_1","unit":"SU10594","calp":"-"},"type":{"position":"abs","positionIndex":8,"subject":"contents"},"dom":null}]},"JOB":{"menu":"JOB","childMenu":"","adType":"singleDom","multiDomAdUrl":"","multiDomUnit":"","infoList":[{"adposId":"1000179","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_job_1","tb":"JOB_1","unit":"SU10589","calp":"-"},"type":{"position":"abs","positionIndex":4,"subject":"contents"},"dom":null},{"adposId":"1000180","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_job_2","tb":"JOB_1","unit":"SU10590","calp":"-"},"type":{"position":"abs","positionIndex":8,"subject":"contents"},"dom":null}]},"LAW":{"menu":"LAW","childMenu":"","adType":"singleDom","multiDomAdUrl":"","multiDomUnit":"","infoList":[{"adposId":"1000181","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_law_1","tb":"LAW_1","unit":"SU10573","calp":"-"},"type":{"position":"abs","positionIndex":4,"subject":"contents"},"dom":null},{"adposId":"1000182","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_law_2","tb":"LAW_1","unit":"SU10574","calp":"-"},"type":{"position":"abs","positionIndex":8,"subject":"contents"},"dom":null}]},"LIVING":{"menu":"LIVING","childMenu":"","adType":"singleDom","multiDomAdUrl":"","multiDomUnit":"","infoList":[{"adposId":"1000183","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_living_1","tb":"LIVING_1","unit":"SU10597","calp":"-"},"type":{"position":"abs","positionIndex":4,"subject":"contents"},"dom":null},{"adposId":"1000184","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_living_2","tb":"LIVING_1","unit":"SU10606","calp":"-"},"type":{"position":"abs","positionIndex":8,"subject":"contents"},"dom":null}]},"LIVINGHOME":{"menu":"LIVINGHOME","childMenu":"","adType":"singleDom","multiDomAdUrl":"","multiDomUnit":"","infoList":[{"adposId":"1000185","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_livinghome_1","tb":"LIVINGHOME_1","unit":"SU10571","calp":"-"},"type":{"position":"abs","positionIndex":4,"subject":"contents"},"dom":null},{"adposId":"1000186","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_livinghome_2","tb":"LIVINGHOME_1","unit":"SU10572","calp":"-"},"type":{"position":"abs","positionIndex":8,"subject":"contents"},"dom":null}]},"MOMKIDS":{"menu":"MOMKIDS","childMenu":"","adType":"singleDom","multiDomAdUrl":"","multiDomUnit":"","infoList":[{"adposId":"1000187","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_momkids_1","tb":"MOMKIDS_1","unit":"SU10575","calp":"-"},"type":{"position":"abs","positionIndex":4,"subject":"contents"},"dom":null},{"adposId":"1000188","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_momkids_2","tb":"MOMKIDS_1","unit":"SU10576","calp":"-"},"type":{"position":"abs","positionIndex":8,"subject":"contents"},"dom":null}]},"MOVIE":{"menu":"MOVIE","childMenu":"","adType":"singleDom","multiDomAdUrl":"","multiDomUnit":"","infoList":[{"adposId":"1000189","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_movie_1","tb":"MOVIE_1","unit":"SU10585","calp":"-"},"type":{"position":"abs","positionIndex":4,"subject":"contents"},"dom":null},{"adposId":"1000190","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_movie_2","tb":"MOVIE_1","unit":"SU10586","calp":"-"},"type":{"position":"abs","positionIndex":8,"subject":"contents"},"dom":null}]},"SCHOOL":{"menu":"SCHOOL","childMenu":"","adType":"singleDom","multiDomAdUrl":"","multiDomUnit":"","infoList":[{"adposId":"1000191","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_school_1","tb":"SCHOOL_1","unit":"SU10579","calp":"-"},"type":{"position":"abs","positionIndex":4,"subject":"contents"},"dom":null},{"adposId":"1000192","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_school_2","tb":"SCHOOL_1","unit":"SU10580","calp":"-"},"type":{"position":"abs","positionIndex":8,"subject":"contents"},"dom":null}]},"SHOW":{"menu":"SHOW","childMenu":"","adType":"singleDom","multiDomAdUrl":"","multiDomUnit":"","infoList":[{"adposId":"1000193","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_show_1","tb":"SHOW_1","unit":"SU10565","calp":"-"},"type":{"position":"abs","positionIndex":4,"subject":"contents"},"dom":null},{"adposId":"1000194","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_show_2","tb":"SHOW_1","unit":"SU10566","calp":"-"},"type":{"position":"abs","positionIndex":8,"subject":"contents"},"dom":null}]},"TRAVEL":{"menu":"TRAVEL","childMenu":"","adType":"singleDom","multiDomAdUrl":"","multiDomUnit":"","infoList":[{"adposId":"1000195","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_travel_1","tb":"TRAVEL_1","unit":"SU10581","calp":"-"},"type":{"position":"abs","positionIndex":4,"subject":"contents"},"dom":null},{"adposId":"1000196","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_travel_2","tb":"TRAVEL_1","unit":"SU10582","calp":"-"},"type":{"position":"abs","positionIndex":8,"subject":"contents"},"dom":null}]},"WEDDING":{"menu":"WEDDING","childMenu":"","adType":"singleDom","multiDomAdUrl":"","multiDomUnit":"","infoList":[{"adposId":"1000197","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_wedding_1","tb":"WEDDING_1","unit":"SU10583","calp":"-"},"type":{"position":"abs","positionIndex":4,"subject":"contents"},"dom":null},{"adposId":"1000198","singleDomAdUrl":"https://siape.veta.naver.com/fxshow","param":{"da_dom_id":"p_main_wedding_2","tb":"WEDDING_1","unit":"SU10584","calp":"-"},"type":{"position":"abs","positionIndex":8,"subject":"contents"},"dom":null}]}},
+svt: 20210719143555,
+}; </script> <script> window.nmain.newsstand = {
+rcode: '09545101',
+newsCastSubsInfo: '',
+newsStandSubsInfo: ''
+};
+window.etc = {  };
+window.svr = "<!--aweb101-->"; </script> <script src="https://ssl.pstatic.net/tveta/libs/assets/js/pc/main/min/pc.veta.core.min.js" defer="defer"></script>  <script async src="https://ssl.pstatic.net/tveta/libs/glad/prod/gfp-core.js"></script>    <script src="https://pm.pstatic.net/dist/js/external.1b08ce51.js?o=www" type="text/javascript" crossorigin="anonymous" defer="defer"></script> <script src="https://pm.pstatic.net/dist/js/preload.59a14d58.js?o=www" type="text/javascript" crossorigin="anonymous" defer="defer"></script> <script src="https://pm.pstatic.net/dist/js/polyfill_async.942eb7d6.js?o=www" type="text/javascript" crossorigin="anonymous" async></script>  <script src="https://pm.pstatic.net/dist/js/vendors~search.30b5d61b.js?o=www" type="text/javascript" crossorigin="anonymous" defer="defer"></script>   <script src="https://pm.pstatic.net/dist/js/search.6d032745.js?o=www" type="text/javascript" crossorigin="anonymous" defer="defer"></script>  <script src="https://pm.pstatic.net/dist/js/vendors~more~nmain~sidebar_notice.031bbbfd.js?o=www" type="text/javascript" crossorigin="anonymous" defer="defer"></script> <script src="https://pm.pstatic.net/dist/js/more~nmain~sidebar_notice.3987c2c7.js?o=www" type="text/javascript" crossorigin="anonymous" defer="defer"></script> <script src="https://pm.pstatic.net/dist/js/nmain.3358478e.js?o=www" type="text/javascript" crossorigin="anonymous" defer="defer"></script> <style>:root{color-scheme:light}#_nx_kbd .setkorhelp a{display:none}</style> </head> <body> <div id="u_skip"> <a href="#newsstand"><span>뉴스스탠드 바로가기</span></a> <a href="#themecast"><span>주제별캐스트 바로가기</span></a> <a href="#timesquare"><span>타임스퀘어 바로가기</span></a> <a href="#shopcast"><span>쇼핑캐스트 바로가기</span></a> <a href="#account"><span>로그인 바로가기</span></a> </div> <div id="wrap"> <style type="text/css">._1syGnXOL{padding-right:18px;font-size:14px;line-height:0;letter-spacing:-.25px;color:#000}._1syGnXOL span,._1syGnXOL strong{line-height:49px}._1syGnXOL:before{display:inline-block;content:"";vertical-align:top;background-image:url(https://static-whale.pstatic.net/main/sprite-20210713@2x.png);background-repeat:no-repeat;background-size:116px 112px;width:18px;height:18px;margin:16px 8px 0 0;background-position:-98px 0}[data-useragent*="MSIE 8"] ._1syGnXOL:before{background-image:url(https://static-whale.pstatic.net/main/sprite-20210713.png)}._1syGnXOL._3dsvmZg2:before{background-position:-47px -85px}._1syGnXOL._1NBFx1WK:before{width:20px;height:20px;margin:15px 8px 0 0;background-position:-21px -89px}._1syGnXOL._2mcQEKCd:before{width:22px;height:22px;margin:14px 7px 0 0;background-position:-47px -63px}._1syGnXOL._36slsKuJ:before{width:21px;height:49px;margin:0 14px 0 0;background-position:0 -63px}._1syGnXOL._18YOHi7v{color:#fff}._1syGnXOL._1FSPZiH6{color:#333}._1syGnXOL._3di88A4c{padding-right:12px;font-size:17px}._1syGnXOL._3di88A4c:before{content:none}._1syGnXOL ._19K4X1CD{text-decoration:underline}._2aeXMlrb{display:inline-block;position:relative;font-size:12px;height:49px;width:78px;text-decoration:none;color:#fff;font-weight:700;letter-spacing:-.5px;vertical-align:top}._2aeXMlrb span{text-align:center;margin:9px 0;height:31px;display:block;line-height:31px;border-radius:15px}._2aeXMlrb span:before{display:inline-block;content:"";vertical-align:top;background-image:url(https://static-whale.pstatic.net/main/sprite-20210713@2x.png);background-repeat:no-repeat;background-size:116px 112px}[data-useragent*="MSIE 8"] ._2aeXMlrb span:before{background-image:url(https://static-whale.pstatic.net/main/sprite-20210713.png)}._2aeXMlrb.BMgpjddw{font-size:11px;width:94px}._2aeXMlrb.BMgpjddw span:before{margin:9px 3px 0 0;width:17px;height:13px;background-position:-89px -63px}._3h-N8T9V{position:absolute;top:0;left:0;right:0;bottom:0;background:rgba(0,0,0,0)}._1KncATpM{display:inline-block;content:"";vertical-align:top;background-image:url(https://static-whale.pstatic.net/main/sprite-20210713@2x.png);background-repeat:no-repeat;background-size:116px 112px;margin-top:14px;float:left;width:98px;height:21px;background-position:0 -21px}[data-useragent*="MSIE 8"] ._1KncATpM{background-image:url(https://static-whale.pstatic.net/main/sprite-20210713.png)}._1KncATpM._2v3uxv2x{background-position:0 0}._1KncATpM._1yl_Ow6o{background-position:0 -42px}._20PYt6lT{font-size:11px;height:49px;cursor:pointer;position:absolute;top:0;right:0;color:#666;opacity:.7}._20PYt6lT:after{width:15px;height:15px;margin-left:4px;background-position:-98px -33px;display:inline-block;content:"";vertical-align:top;background-image:url(https://static-whale.pstatic.net/main/sprite-20210713@2x.png);background-repeat:no-repeat;background-size:116px 112px}[data-useragent*="MSIE 8"] ._20PYt6lT:after{background-image:url(https://static-whale.pstatic.net/main/sprite-20210713.png)}._20PYt6lT._39oMCV2N:after{background-position:-98px -18px}._20PYt6lT._3wm5EzmJ{color:#fff}._20PYt6lT._3wm5EzmJ:after{background-position:-65px -85px}._1hiMWemA{height:49px}._1hiMWemA .tY_u8r23{position:relative;width:1130px;margin:0 auto}._1hiMWemA .tY_u8r23 a{text-decoration:none}._1hiMWemA._23U_6TM_{position:relative}._1hiMWemA._23U_6TM_:after{position:absolute;z-index:1;content:"";display:block;width:100%;height:1px;bottom:0;background-color:rgba(0,0,0,.050980392156862744)}</style>         
+<div id="NM_TOP_BANNER" data-clk-prefix="top" class="_1hiMWemA"
+style="background-color: #6f5de5">
+<div class="tY_u8r23">
+<a class="_3h-N8T9V" href='https://whale.naver.com/banner/details/darkmode?=main&wpid=RydDy7'
+data-clk="dropbanner1b"></a>
+<i class="_1KncATpM _1yl_Ow6o"><span class="blind">NAVER whale</span></i>
+<img src="https://static-whale.pstatic.net/main/img_darkmode_v3@2x.png" width="215.5" height="49" alt=""
+style="padding-left: 92px"/>
+<span class="_1syGnXOL _18YOHi7v _3di88A4c" data-clk="dropbanner1b" style="padding-right: 20px; font-size: 18px; padding-left: 78px">
+<span>이제 </span><strong>다크 모드로 눈 건강은 ON! 피로는 OFF!</strong></span>
+<a href='https://installer-whale.pstatic.net/downloads/banner/RydDy7/WhaleSetup.exe' class="_2aeXMlrb BMgpjddw" id="NM_whale_download_btn"
+data-clk="dropdownload1b"><span style="background-color: #44388e">다운로드</span></a>
+<button type="button" data-ui-cookie-exp-days="3" data-ui-cookie-key="NM_TOP_PROMOTION" data-ui-cookie-value="1"
+data-ui-hide-target="#NM_TOP_BANNER" data-clk="dropclose1b" class="_20PYt6lT _3wm5EzmJ"
+style="display: none">3일 동안 보지 않기
+</button>
+</div>
+</div>  <div id="header" role="banner">
+
+
+
+
+
+
+
+
+<div class="special_bg">
+<div class="group_flex">
+<div class="logo_area">
+<h1 class="logo_default">
+<a href="/" class="logo_naver" data-clk="top.logo"
+><span class="blind">네이버</span></a
+>
+</h1>
+</div>
+<div class="service_area">
+<a id="NM_set_home_btn" href="https://help.naver.com/support/welcomePage/guide.help" class="link_set" data-clk="top.mkhome">네이버를 시작페이지로</a>
+<i class="sa_bar"></i>
+<a href="https://jr.naver.com" class="link_jrnaver" data-clk="top.jrnaver"><i class="ico_jrnaver"></i><span class="blind">쥬니어네이버</span></a>
+<a href="https://happybean.naver.com" class="link_happybin" data-clk="top.happybean"><i class="ico_happybin"></i><span class="blind">해피빈</span></a>
+</div>
+
+<div id="search" class="search_area" data-clk-prefix="sch">
+<form id="sform" name="sform" action="https://search.naver.com/search.naver" method="get" role="search">
+<fieldset>
+<legend class="blind">검색</legend>
+<select id="where" name="where" title="검색 범위 선택" class="blind">
+<option value="nexearch" selected="selected">통합검색</option><option value="post">블로그</option><option value="cafeblog">카페</option><option value="cafe">- 카페명</option><option value="article">- 카페글</option><option value="kin">지식iN</option><option value="news">뉴스</option><option value="web">사이트</option><option value="category">- 카테고리</option><option value="site">- 사이트</option><option value="movie">영화</option><option value="webkr">웹문서</option><option value="dic">사전</option><option value="100">- 백과사전</option><option value="endic">- 영어사전</option><option value="eedic">- 영영사전</option><option value="krdic">- 국어사전</option><option value="jpdic">- 일본어사전</option><option value="hanja">- 한자사전</option><option value="terms">- 용어사전</option><option value="book">책</option><option value="music">음악</option><option value="doc">전문자료</option><option value="shop">쇼핑</option><option value="local">지역</option><option value="video">동영상</option><option value="image">이미지</option><option value="mypc">내PC</option><optgroup label="스마트 파인더"><option value="movie">영화</option><option value="auto">자동차</option><option value="game">게임</option><option value="health">건강</option><option value="people">인물</option></optgroup><optgroup label="네이버 랩"><option>긍정부정검색</option></optgroup>
+</select>
+<input type="hidden" id="sm" name="sm" value="top_hty" />
+<input type="hidden" id="fbm" name="fbm" value="0" />
+<input type="hidden" id="acr" name="acr" value="" disabled="disabled" />
+<input type="hidden" id="acq" name="acq" value="" disabled="disabled" />
+<input type="hidden" id="qdt" name="qdt" value="" disabled="disabled" />
+<input type="hidden" id="ie" name="ie" value="utf8" />
+<input type="hidden" id="acir" name="acir" value="" disabled="disabled" />
+<input type="hidden" id="os" name="os" value="" disabled="disabled" />
+<input type="hidden" id="bid" name="bid" value="" disabled="disabled" />
+<input type="hidden" id="pkid" name="pkid" value="" disabled="disabled" />
+<input type="hidden" id="eid" name="eid" value="" disabled="disabled" />
+<input type="hidden" id="mra" name="mra" value="" disabled="disabled" />
+
+
+
+<div class="green_window" style=''>
+<!-- [AU] data-atcmp-element 에 해당하는 attribute를 추가해주세요. -->
+<input id="query" name="query" type="text" title="검색어 입력" maxlength="255" class="input_text" tabindex="1" accesskey="s" style="ime-mode:active;" autocomplete="off"  placeholder="검색어를 입력해 주세요." onclick="document.getElementById('fbm').value=1;" value="" data-atcmp-element>
+</div>
+<button id="search_btn" type="submit" title="검색" tabindex="3" class="btn_submit" onclick="window.nclick(this,'sch.action','','',event);" style=''>
+<span class="blind">검색</span>
+<span class="ico_search_submit"></span>
+</button>
+</fieldset>
+</form>
+<!-- 한글입력기 -->
+<a href="#" id="ke_kbd_btn" role="button" class="btn_keyboard" onclick="return false;"><span class="blind">한글 입력기</span><span class="ico_keyboard"></span></a>
+<div id="_nx_kbd" style="display:none;"></div>
+<div class="autocomplete">
+<!-- 자동완성 열린 경우 fold 클래스 추가, 딤드인 경우 dim 추가 -->
+<a href="#" role="button" id="nautocomplete" tabindex="2" class="btn_arw _btn_arw fold" aria-pressed="false" data-atcmp-element><span class="blind">자동완성 레이어</span><span class="ico_arr"></span></a>
+</div>
+<!-- 자동완성레이어 -->
+<div id="autoFrame" class="reatcmp" style="display: none;">
+<!-- [AU] data-atcmp-element attribute를 추가해주세요. -->
+<div class="ly_atcmp" data-atcmp-element>
+<div class="api_atcmp_wrap">
+<!-- 최근검색어 -->
+<!-- [AU] _recent_layer 클래스를 추가해주세요. -->
+<div class="atcmp_fixer _recent_layer" style="display:none;">
+<!-- [AU] _recent_header 클래스를 추가해주세요. -->
+<div class="atcmp_header _recent_header">
+<strong class="tit">최근검색어</strong>
+<div class="option">
+<!-- [AU] _delAll 클래스를 추가해주세요. -->
+<a role="button" href="#" class="item _delAll" aria-pressed="false">전체삭제</a>
+</div>
+</div>
+<div class="atcmp_container">
+<!-- [AU] _recent 클래스를 추가해주세요. -->
+<ul class="kwd_lst _recent">
+<!-- 최근검색어 템플릿 -->
+<!-- [AU] _item 클래스를 추가해주세요. -->
+<!-- [AU] data-template-type="history" data-keyword="@in_txt@" attribute를 추가해주세요. -->
+<li class="item _item" data-rank="@rank@" data-template-type="history" data-keyword="@in_txt@">
+<a href="#" class="kwd">
+<span class="fix"><span class="common_ico_kwd"><i class="imsc ico_search"></i></span><span>@txt@</span></span>
+</a>
+<span class="etc">
+<em class="date">@date@.</em>
+<!-- [AU] _del 클래스를 추가해주세요. -->
+<a href="#" role="button" class="bt_item _del" aria-pressed="false"><i class="imsc ico_del">삭제</i></a>
+</span>
+</li>
+</ul>
+<!-- [D] 검색어 저장 꺼진 경우 atcmp_fixer에 type_off 추가 -->
+<!-- [AU] _offMsg 클래스를 추가해주세요. -->
+<div class="kwd_info kwd_off _offMsg" style="display: none;">검색어 저장 기능이 꺼져 있습니다.<br><span class="kwd_dsc">설정이 초기화 된다면 <a href="https://help.naver.com/support/alias/search/word/word_29.naver" class="kwd_help" data-clk="sly.help" target="_blank">도움말</a>을 확인해주세요.</span></div>
+<!-- [D] 검색어 내역 없는 경우 atcmp_fixer에 type_off 추가 -->
+<!-- [AU] _recentNone 클래스를 추가해주세요. -->
+<div class="kwd_info kwd_none _recentNone" style="display: none;">최근 검색어 내역이 없습니다.<br><span class="kwd_dsc">설정이 초기화 된다면 <a href="https://help.naver.com/support/alias/search/word/word_29.naver" class="kwd_help" data-clk="sly.help" target="_blank">도움말</a>을 확인해주세요.</span></div>
+</div>
+<div class="atcmp_footer">
+<span class="side_opt_area">
+<span class="opt_item"><a href="https://help.naver.com/support/service/main.help?serviceNo=605&amp;categoryNo=1991" data-clk="sly.help" target="_blank">도움말</a></span>
+</span>
+<span class="rside_opt_area">
+<span class="opt_item">
+<!-- [AU] _keywordOnOff 클래스를 추가해주세요. -->
+<a href="#" class="close _keywordOnOff">자동저장 끄기</a>
+</span>
+</span>
+</div>
+</div>
+<!-- 자동완성 -->
+<!-- [AU] _atcmp_layer 클래스를 추가해주세요. -->
+<div class="atcmp_fixer _atcmp_layer" style="display:none;">
+<!-- [AU] _words 클래스를 추가해주세요. -->
+<div class="atcmp_container _words">
+<!-- 정답형 템플릿 : 로또당첨번호 -->
+<!-- [AU] _answer 클래스를 추가해주세요. -->
+<!-- [AU] data-template-type="answer_3" data-code="@code@" data-keyword="@1@" attribute를 추가해주세요. -->
+<div class="atcmp_correct type_lotto _answer" data-template-type="answer_3" data-code="@code@" data-keyword="@1@">
+<a href="#" class="link_item">
+<span class="common_ico_kwd"><i class="imsc ico_search"></i></span>
+<div class="dsc_area">
+<span class="tit">@5@회차 당첨번호</span>
+<span class="dsc">
+<span class="item">추첨 @13@.</span><span class="item">지급기한 1년</span>
+</span>
+</div>
+<span class="etc_area">
+<span class="etc lotto">
+<em class="n@6@">@6@</em><em class="n@7@">@7@</em><em class="n@8@">@8@</em><em class="n@9@">@9@</em><em class="n@10@">@10@</em><em class="n@11@">@11@</em><em class="imsc_bf bonus n@12@">@12@</em>
+</span>
+</span>
+</a>
+</div>
+<!-- 정답형 템플릿 : 환율 -->
+<!-- [AU] _answer 클래스를 추가해주세요. -->
+<!-- [AU] data-template-type="answer_9" data-code="@code@" data-keyword="@1@" attribute를 추가해주세요. -->
+<div class="atcmp_correct type_exchange _answer" data-template-type="answer_9" data-code="@code@" data-keyword="@1@">
+<!-- [D] 상승 up, 하락 down 추가 -->
+<a href="#" class="link_item @11@">
+<!-- [D] 국가별 class 가나다순
+ZAR 남아프리카 공화국
+NPR 네팔
+NOK 노르웨이
+NZD 뉴질랜드
+TWD 대만
+DKK 덴마크
+RUB 러시아
+MOP 마카오
+MYR 말레이시아
+MXN 멕시코
+MNT 몽골
+USD 미국
+BHD 바레인
+BDT 방글라데시
+VND 베트남
+BRL 브라질
+SAR 사우디아라비아
+SEK 스웨덴
+CHF 스위스
+SGD 싱가포르
+AED 아랍에미리트
+GBP 영국
+EUR 유럽연합
+ILS 이스라엘
+EGP 이집트
+INR 인도
+IDR 인도네시아
+JPY 일본
+CNY 중국
+CZK 체코
+CLP 칠레
+KZT 카자흐스탄
+QAR 카타르
+CAD 캐나다
+KWD 쿠웨이트
+THB 태국
+TRY 터키
+PKR 파키스탄
+PLN 폴란드
+PHP 필리핀
+HUF 헝가리
+AUD 호주
+HKD 홍콩
+-->
+<span class="common_ico_kwd"><i class="imsc ico @12@">@14@</i></span>
+<div class="dsc_area">
+<span class="tit">@txt@<span class="sub">@currency@</span></span>
+<span class="dsc">
+<span class="item"><i class="imsc ico_arr"></i>@8@(@9@%)</span>
+</span>
+</div>
+<span class="etc_area">
+<span class="etc"><em class="num">@6@</em>원</span>
+</span>
+</a>
+</div>
+<!-- 정답형 템플릿 : 날씨(국내11, 해외12) -->
+<!-- [AU] _answer 클래스를 추가해주세요. -->
+<!-- [AU] data-template-type="answer_11" data-code="@code@" data-keyword="@1@" attribute를 추가해주세요. -->
+<div class="atcmp_correct type_weather _answer" data-template-type="answer_11" data-code="@code@" data-keyword="@1@">
+<!-- [D] 상승 up, 하락 down 추가 -->
+<a href="#" class="link_item @12@">
+<span class="common_ico_kwd"><i class="imsc ico_search"></i></span>
+<div class="dsc_area">
+<span class="tit">@txt@</span>
+<span class="dsc">
+<span class="item">@7@, @message@</span>
+</span>
+</div>
+<span class="etc_area">
+<span class="etc">
+<!-- [D] 날씨별 class
+ico1 맑음(낮)
+ico2 맑음(밤)
+ico3 구름조금(낮)
+ico4 구름조금(밤)
+ico5 구름많음(낮)
+ico6 구름많음(밤)
+ico7 흐림
+ico8 약한비
+ico9 비
+ico10 강한비
+ico11 약한눈
+ico12 눈
+ico13 강한눈
+ico14 진눈깨비
+ico15 소나기
+ico16 안개
+ico17 소낙눈
+ico18 번개뇌우
+ico19 우박
+ico20 황사
+ico21 비또는눈
+ico22 가끔비
+ico23 가끔눈
+ico24 가끔비또는눈
+ico25 흐린후갬
+ico26 뇌우후갬
+ico27 비후갬
+ico28 눈후갬
+ico29 흐려져비
+ico30 흐려져눈
+-->
+<span class="ico_weather"><i class="imsc ico ico@iconNo@">@7@</i></span>
+<em class="degree">@8@<sup class="celsius">°</sup></em>
+</span>
+</span>
+</a>
+</div>
+<!-- 정답형 템플릿 : 사이트 바로가기 -->
+<!-- [AU] _answer 클래스를 추가해주세요. -->
+<!-- [AU] data-template-type="answer_17" data-code="@code@" data-keyword="@1@" attribute를 추가해주세요. -->
+<div class="atcmp_correct type_site _answer" data-template-type="answer_17" data-code="@code@" data-keyword="@1@">
+<a href="@5@" class="link_item" target="_blank">
+<span class="common_ico_kwd"><i class="imsc ico_url"></i></span>
+<div class="dsc_area">
+<span class="tit">@txt@</span>
+<span class="dsc">
+<span class="item">@5@</span>
+</span>
+</div>
+<span class="etc_area">
+<span class="etc">바로가기</span>
+</span>
+</a>
+</div>
+<!-- [AU] _kwd_list 클래스를 추가해주세요. -->
+<ul class="kwd_lst _kwd_list">
+<!-- [AU] 자동완성 검색어 템플릿 -->
+<!-- [AU] _item 클래스를 추가해주세요. -->
+<!-- [AU] data-rank="@rank@" data-template-type="suggestion" data-keyword="@in_txt@" attribute를 추가해주세요. -->
+<li class="item _item" data-rank="@rank@" data-template-type="suggestion" data-keyword="@in_txt@">
+<a href="#" class="kwd">
+<span class="fix"><span class="common_ico_kwd"><i class="imsc ico_search"></i></span>@txt@</span>
+</a>
+<span class="etc">
+<a href="#" role="button" class="bt_item _add" aria-pressed="false"><i class="imsc ico_insert">추가</i></a>
+</span>
+</li>
+<!-- [AU] 최근검색어 템플릿 -->
+<!-- [AU] _item 클래스를 추가해주세요. -->
+<!-- [AU] data-rank="@rank@" data-template-type="history" data-keyword="@in_txt@" attribute를 추가해주세요. -->
+<li class="item has_correct _item" data-rank="@rank@" data-template-type="history" data-keyword="@in_txt@">
+<a href="#" class="kwd">
+<span class="fix"><span class="common_ico_kwd"><i class="imsc ico_search"></i></span>@txt@</span>
+</a>
+<span class="etc">
+<!-- 최근검색어 있으면 날짜 표시 -->
+<em class="date">@date@.</em>
+<a href="#" role="button" class="bt_item _add" aria-pressed="false"><i class="imsc ico_insert">추가</i></a>
+</span>
+</li>
+</ul>
+<!-- [AU] 문맥검색 템플릿 -->
+<!-- [AU] _item 클래스를 추가해주세요. -->
+<!-- [AU] data-rank="@rank@" data-template-type="intend" data-keyword="@transQuery@" attribute를 추가해주세요. -->
+<li class="item has_correct _item" data-rank="@rank@" data-intend-rank="@intendRank@" data-template-type="intend" data-keyword="@transQuery@">
+<a href="#" class="kwd">
+<span class="fix"><span class="common_ico_kwd"><i class="imsc ico_search"></i></span>@query@ <span class="context">@intend@</span></span>
+</a>
+<span class="etc">
+<a href="#" role="button" class="bt_item _add" aria-pressed="false"><i class="imsc ico_insert">추가</i></a>
+</span>
+</li>
+<!-- [D] 선거안내문구 -->
+<!-- [AU] _alert 클래스를 추가해주세요. -->
+<div class="atcmp_alert _alert">
+<div class="dsc_election">
+<p class="dsc">
+<i class="imsc ico_election"></i><span class="_alert_passage"></span>
+</p>
+<span class="dsc_inner">
+<!-- [AU] _alert_passage2 클래스를 추가해주세요. -->
+<span class="_alert_passage2"></span>
+<!-- [AU] _alert_link 클래스를 추가해주세요. -->
+<a href="#" class="link _alert_link" target="_blank">자세히보기</a>
+</span>
+</div>
+</div>
+<!-- [AU] _plus 클래스를 추가해주세요. -->
+<div class="atcmp_plus _plus">
+<div class="dsc_plus">
+<a href="https://help.naver.com/support/contents/contents.nhn?serviceNo=606&categoryNo=16658" class="link_dsc" data-clk="sug.cxhelp" target="_blank">관심사를 반영한 컨텍스트 자동완성<i class="imsc ico_help">도움말</i></a>
+</div>
+<div class="switch">
+<!-- [D] 선택시 aria-pressed="ture/false" -->
+<!-- [AU] _plus_btn 클래스를 추가해주세요. -->
+<a role="button" href="#" class="bt_switch active _plus_btn" aria-pressed="false"><i class="imsc ico_option">컨텍스트 자동완성</i></a>
+</div>
+<!-- [AU] _plus_layer 클래스를 추가해주세요. -->
+<div class="layer_plus _plus_layer">
+<strong class="tit">컨텍스트 자동완성</strong>
+<!-- [AU] _plus_layer_isloggedin 클래스를 추가해주세요. -->
+<!-- [AU] style="display:none" 추가해주세요. -->
+<div class="_plus_layer_isloggedin" style="display:none">
+<p class="dsc">ON/OFF 설정은<br>해당기기(브라우저)에 저장됩니다.</p>
+<div class="btn_area">
+<a href="https://help.naver.com/support/contents/contents.help?serviceNo=606&categoryNo=16659" class="btn btn_view" data-clk="sug.cxlink" target="_blank">자세히</a>
+</div>
+</div>
+<!-- [AU] _plus_layer_isnotloggedin 클래스를 추가해주세요. -->
+<!-- [AU] style="display:none" 추가해주세요. -->
+<div class="_plus_layer_isnotloggedin" style="display:none">
+<p class="dsc"><em class="txt">동일한 시간대/연령/남녀별</em> 사용자 그룹의<br>관심사에 맞춰 자동완성을 제공합니다.</p>
+<div class="btn_area">
+<a href="https://nid.naver.com/nidlogin.login" class="btn btn_login" data-clk="sug.cxlogin">로그인</a>
+<a href="https://help.naver.com/support/alias/search/word/word_16.naver" class="btn btn_view" data-clk="sug.cxlink" target="_blank">자세히</a>
+</div>
+</div>
+<!-- [AU] _plus_layer_close 클래스를 추가해주세요. -->
+<a href="#" role="button" class="btn_close _plus_layer_close"><i class="imsc ico_close">컨텍스트 자동완성 레이어 닫기</i></a>
+</div>
+</div>
+</div>
+<div class="atcmp_footer">
+<span class="side_opt_area">
+<span class="opt_item"><a href="https://help.naver.com/support/service/main.help?serviceNo=605&categoryNo=1987" data-clk="sug.help" target="_blank">도움말</a></span>
+<span class="opt_item"><a href="https://help.naver.com/support/contents/contents.help?serviceNo=605&categoryNo=18215" class="report" data-clk="sug.report" target="_blank">신고</a></span>
+</span>
+<span class="rside_opt_area">
+<span class="opt_item">
+<!-- [AU] _suggestOnOff 클래스를 추가해주세요. -->
+<a href="#" class="close _suggestOnOff">자동완성 끄기</a>
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+
+<!--EMPTY-->
+<div id="gnb">
+<div id="NM_FAVORITE" class="gnb_inner">
+<div class="group_nav">
+<ul class="list_nav type_fix">
+<li class="nav_item">
+<a href="https://mail.naver.com/" class="nav" data-clk="svc.mail"><i class="ico_mail"></i>메일</a>
+</li>
+<li class="nav_item"><a href="https://section.cafe.naver.com/" class="nav" data-clk="svc.cafe">카페</a></li>
+<li class="nav_item"><a href="https://section.blog.naver.com/" class="nav" data-clk="svc.blog">블로그</a></li>
+<li class="nav_item"><a href="https://kin.naver.com/" class="nav" data-clk="svc.kin">지식iN</a></li>
+<li class="nav_item"><a href="https://shopping.naver.com/" class="nav shop" data-clk="svc.shopping"><span class="blind">쇼핑</span></a></li>
+<li class="nav_item"><a href="https://shoppinglive.naver.com/home" class="nav shoplive"
+data-clk="svc.shoppinglive"><span class="blind">쇼핑LIVE</span></a></li>
+<li class="nav_item"><a href="https://order.pay.naver.com/home" class="nav" data-clk="svc.pay">Pay</a></li>
+<li class="nav_item">
+<a href="https://tv.naver.com/" class="nav" data-clk="svc.tvcast"><i class="ico_tv"></i>TV</a>
+</li>
+</ul>
+<ul
+class="list_nav NM_FAVORITE_LIST"
+>
+<li class="nav_item"><a href="https://dict.naver.com/" class="nav" data-clk="svc.dic">사전</a></li>
+<li class="nav_item"><a href="https://news.naver.com/" class="nav" data-clk="svc.news">뉴스</a></li>
+<li class="nav_item"><a href="https://finance.naver.com/" class="nav" data-clk="svc.stock">증권</a></li>
+<li class="nav_item"><a href="https://land.naver.com/" class="nav" data-clk="svc.land">부동산</a></li>
+<li class="nav_item"><a href="https://map.naver.com/" class="nav" data-clk="svc.map">지도</a></li>
+<li class="nav_item"><a href="https://vibe.naver.com/" class="nav" data-clk="svc.vibe">VIBE</a></li>
+<li class="nav_item"><a href="https://book.naver.com/" class="nav" data-clk="svc.book">책</a></li>
+<li class="nav_item"><a href="https://comic.naver.com/" class="nav" data-clk="svc.webtoon">웹툰</a></li>
+
+</ul>
+<ul class="list_nav type_empty" style="display: none;"></ul>
+<a href="#" role="button" class="btn_more" data-clk="svc.more">더보기</a>
+<div class="ly_btn_area">
+<a href="more.html" class="btn NM_FAVORITE_ALL" data-clk="map.svcmore">서비스 전체보기</a>
+<a href="#" role="button" class="btn btn_set" data-clk="map.edit">메뉴설정</a>
+<a href="#" role="button" class="btn btn_reset" data-clk="edt.reset">초기화</a>
+<a href="#" role="button" class="btn btn_save" data-clk="edt.save">저장</a>
+</div>
+</div>
+<div id="NM_WEATHER" class="group_weather">
+<div>
+<a data-clk="squ.weat" href="https://weather.naver.com/today/09545101" class="weather_area ico_w07">
+<div class="current_box">
+<strong class="current" aria-label="현재기온">30.8°</strong><strong class="state">흐림</strong>
+</div>
+<div class="degree_box">
+<span class="min" aria-label="최저기온">24.0°</span><span class="max" aria-label="최고기온">31.0°</span>
+</div>
+<span class="location">가산동</span>
+</a>
+</div>
+<div>
+<a data-clk="squ.dust" href="https://weather.naver.com/today/09545101" class="air_area">
+<ul class="list_air">
+<li class="air_item">미세<strong class="state state_good">좋음</strong></li>
+<li class="air_item">초미세<strong class="state state_good">좋음</strong></li>
+</ul>
+<span class="location">가산동</span>
+</a>
+</div>
+
+</div>
+</div>
+<div class="ly_service">
+<div class="group_service NM_FAVORITE_ALL_LY"></div>
+<div class="group_service NM_FAVORITE_EDIT_LY" style="display: none;"></div>
+</div>
+</div>
+</div>
+ <div id="container" role="main"> <div style="position:relative;width:1130px;margin:0 auto;z-index:11"> <div id="da_top"></div> <div id="da_expwide"></div> </div> <div id="NM_INT_LEFT" class="column_left">  <div id="veta_top"> <iframe id="da_iframe_time" name="da_iframe_time" data-iframe-src="https://siape.veta.naver.com/fxshow?su=SU10599&amp;nrefreshx=0" data-veta-preview="main_time" title="광고" width="750" height="135" marginheight="0" marginwidth="0" scrolling="no" frameborder="0"> </iframe> <span class="veta_bd_t"></span> <span class="veta_bd_b"></span> <span class="veta_bd_l"></span> <span class="veta_bd_r"></span> </div> <div id="newsstand" class="sc_newscast"> <h2 class="blind">뉴스스탠드</h2> <div id="NM_NEWSSTAND_HEADER" class="group_issue" data-clk-prefix="ncy"> <div class="issue_area"> <a href="http://news.naver.com/main/list.nhn?mode=LPOD&mid=sec&sid1=001&sid2=140&oid=001&isYeonhapFlash=Y" class="link_media" data-clk="newsflash">연합뉴스</a> <div id="yna_rolling" class="list_issue"> <div><a href="http://news.naver.com/main/list.nhn?mode=LPOD&mid=sec&sid1=001&sid2=140&oid=001&isYeonhapFlash=Y&aid=0012534176" class="issue" data-clk="quickarticle">日관방, 소마 공사 발언 "매우 부적절"…유감 입장 표명</a></div>
+<div><a href="http://news.naver.com/main/list.nhn?mode=LPOD&mid=sec&sid1=001&sid2=140&oid=001&isYeonhapFlash=Y&aid=0012534331" class="issue" data-clk="quickarticle">'청해부대 이송작전' 군 수송기, 현지 도착…오늘 오후 귀국길</a></div>
+<div><a href="http://news.naver.com/main/list.nhn?mode=LPOD&mid=sec&sid1=001&sid2=140&oid=001&isYeonhapFlash=Y&aid=0012534336" class="issue" data-clk="quickarticle">"마음 놓고 공부할 수 있어요"…수능 앞둔 고3 접종 시작</a></div>
+<div><a href="http://news.naver.com/main/list.nhn?mode=LPOD&mid=sec&sid1=001&sid2=140&oid=001&isYeonhapFlash=Y&aid=0012534435" class="issue" data-clk="quickarticle">서울 폭염경보+호우주의보…소나기 점차 전국 확대</a></div>
+<div><a href="http://news.naver.com/main/list.nhn?mode=LPOD&mid=sec&sid1=001&sid2=140&oid=001&isYeonhapFlash=Y&aid=0012534090" class="issue" data-clk="quickarticle">경찰, '불법집회 주최' 민주노총 23명 입건·2명 내사</a></div>
+<div><a href="http://news.naver.com/main/list.nhn?mode=LPOD&mid=sec&sid1=001&sid2=140&oid=001&isYeonhapFlash=Y&aid=0012534136" class="issue" data-clk="quickarticle">경찰, '포르쉐 의혹' 박영수 수사 착수…"절차대로 진행"</a></div>
+<div><a href="http://news.naver.com/main/list.nhn?mode=LPOD&mid=sec&sid1=001&sid2=140&oid=001&isYeonhapFlash=Y&aid=0012534183" class="issue" data-clk="quickarticle">동물에 첫 법적 지위…동물학대 민형사 책임 커질 듯</a></div>
+<div><a href="http://news.naver.com/main/list.nhn?mode=LPOD&mid=sec&sid1=001&sid2=140&oid=001&isYeonhapFlash=Y&aid=0012534062" class="issue" data-clk="quickarticle">한국인 기대수명 83.3년…자살사망률, OECD 국가 중 최고</a></div>
+<div><a href="http://news.naver.com/main/list.nhn?mode=LPOD&mid=sec&sid1=001&sid2=140&oid=001&isYeonhapFlash=Y&aid=0012534104" class="issue" data-clk="quickarticle">박지원 사위 "마약 투약은 했지만 밀수입은 아냐"</a></div>
+<div><a href="http://news.naver.com/main/list.nhn?mode=LPOD&mid=sec&sid1=001&sid2=140&oid=001&isYeonhapFlash=Y&aid=0012534201" class="issue" data-clk="quickarticle">유모차 탄 27개월 여아 '묻지마' 폭행한 20대 여성</a></div> </div> </div> <div class="direct_area"> <a href="http://m.sports.naver.com/tokyo2020/index" class="link_olympic" data-clk="tokyo"><span class="blind">TOKYO 2020</span></a>
+<a href="http://news.naver.com/" class="link_news" data-clk="newshome">네이버뉴스</a>
+<a href="http://entertain.naver.com/home" class="link_direct" data-clk="entertainment">연예</a>
+<a href="http://sports.news.naver.com/" class="link_direct" data-clk="sports">스포츠</a> </div> </div>        <div id="NM_NEWSSTAND_TITLE" class="group_title" data-clk-prefix="nsd"> <a href="http://newsstand.naver.com/" class="link_newsstand" data-clk="title" target="_blank">뉴스스탠드</a> <div id="NM_NEWSSTAND_data_buttons" class="sort_area">  <a href="#" role="button" data-type="my" data-clk="my" class="btn_sort">구독한 언론사</a> <a href="#" role="button" data-type="all" data-clk="all" class="btn_sort sort_on">전체언론사</a>  </div> <div id="NM_NEWSSTAND_view_buttons" class="set_area">  <a href="#" role="button" data-type="list" data-clk="articleview" class="btn_set"> <i class="ico_list"><span class="blind">리스트형</span></i></a> <a href="#" role="button" data-type="thumb" data-clk="pressview" class="btn_set set_on"> <i class="ico_tile"><span class="blind">썸네일형</span></i></a>  <a href="http://newsstand.naver.com/config.html" class="btn_set" data-clk="set" target="_blank"> <i class="ico_set"><span class="blind">설정</span></i></a> </div> </div> <div id="NM_NEWSSTAND_VIEW_CONTAINER" style="position:relative"> <div id="NM_NEWSSTAND_DEFAULT_LIST" class="group_news" style="display:none" data-clk-prefix="nsd_all"> <a href="#" role="button" class="pm_btn_prev_l _NM_NEWSSTAND_LIST_prev_btn" data-clk-custom="prev"><i class="ico_btn"><span class="blind">이전</span></i></a> <a href="#" role="button" class="pm_btn_next_l _NM_NEWSSTAND_LIST_next_btn" data-clk-custom="next"><i class="ico_btn"><span class="blind">다음</span></i></a> <div class="list_view"> <div class="option_area"> <div class="list_option_wrap"> <ul class="list_option"> <li class="option_item" data-cateid="ct2"><a href="#" class="option" data-clk="daei">종합/경제</a></li> <li class="option_item" data-cateid="ct3"><a href="#" class="option" data-clk="dtvcom">방송/통신</a></li> <li class="option_item" data-cateid="ct4"><a href="#" class="option" data-clk="dit">IT</a></li> <li class="option_item" data-cateid="ct5"><a href="#" class="option" data-clk="deng">영자지</a></li> <li class="option_item" data-cateid="ct6"><a href="#" class="option" data-clk="dsporent">스포츠/연예</a></li> <li class="option_item" data-cateid="ct7"><a href="#" class="option" data-clk="dmagtec">매거진/전문지</a></li> <li class="option_item" data-cateid="ct8"><a href="#" class="option" data-clk="dloc">지역</a></li> </ul> </div> </div> <div class="_NM_NEWSSTAND_ARTICLE_CONTAINER" data-clk-sub="*a"></div> </div> <div class="ly_popup NM_NEWSSTAND_POPUP NM_NEWSSTAND_invalid" style="display:none" data-clk-sub="*a"> <a href="#" role="button" class="btn_close NM_NEWSSTAND_POPUP_CLOSE"><i class="ico_close"></i><span class="blind">닫기</span></a> <p class="popup_msg">해당 언론사 사정으로 접근이 일시 제한됩니다.</p> <div class="popup_btn"> <a href="#" role="button" class="btn_confirm NM_NEWSSTAND_POPUP_CLOSE">확인</a> </div> </div> <div class="ly_popup NM_NEWSSTAND_POPUP NM_NEWSSTAND_undescribe_confirm" style="display:none" data-clk-sub="*a"> <a href="#" role="button" class="btn_close NM_NEWSSTAND_POPUP_CLOSE" data-clk="usclose"><i class="ico_close"></i><span class="blind">닫기</span></a> <p class="popup_msg"><strong class="NM_NEWSSTAND_POPUP_PNAME"></strong>을(를)<br>구독해지 하시겠습니까?</p> <div class="popup_btn"> <a href="#" role="button" class="btn_confirm NM_NEWSSTAND_POPUP_CONFIRM" data-clk="usdone">확인</a> <a href="#" role="button" class="btn_confirm NM_NEWSSTAND_POPUP_CLOSE" data-clk="uscancel">취소</a> </div> </div> <div class="ly_toast NM_NEWSSTAND_TOAST" style="display:none"> <p class="toast_msg">구독한 언론사에 추가되었습니다.</p> </div> </div>   <div id="NM_NEWSSTAND_DEFAULT_THUMB" class="group_news" style="display:block" data-clk-prefix="nsd_all"> <a href="#" role="button" class="pm_btn_prev_l _NM_UI_PAGE_PREV" data-clk-custom="prev"><i class="ico_btn"><span class="blind">이전</span></i></a> <a href="#" role="button" class="pm_btn_next_l _NM_UI_PAGE_NEXT" data-clk-custom="next"><i class="ico_btn"><span class="blind">다음</span></i></a> <div class="_NM_UI_PAGE_CONTAINER" style="height:100%;overflow:hidden" data-clk-sub="*p">  <div style="width: 750px; float: left;">
+<div class="tile_view">
+<div class="frame_area">
+<i class="line to_right1"></i>
+<i class="line to_right2"></i>
+<i class="line to_right3"></i>
+<i class="line to_bottom1"></i>
+<i class="line to_bottom2"></i>
+<i class="line to_bottom3"></i>
+<i class="line to_bottom4"></i>
+<i class="line to_bottom5"></i>
+</div>
+<div class="thumb_area">
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="023"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/up/2020/0903/nsd185255316.png"
+height="20"
+alt="조선일보"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="023"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="023"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=023"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="023"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="014"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/2020/logo/light/0604/014.png"
+height="20"
+alt="파이낸셜뉴스"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="014"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="014"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=014"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="014"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="029"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/2020/logo/light/0604/029.png"
+height="20"
+alt="디지털타임스"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="029"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="029"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=029"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="029"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="930"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/2020/logo/light/0604/930.png"
+height="20"
+alt="뉴스타파"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="930"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="930"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=930"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="930"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="109"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/up/2020/0610/nsd151458769.png"
+height="20"
+alt="OSEN"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="109"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="109"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=109"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="109"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="055"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/2020/logo/light/0604/055.png"
+height="20"
+alt="SBS"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="055"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="055"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=055"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="055"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="092"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/2020/logo/light/0604/092.png"
+height="20"
+alt="지디넷코리아"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="092"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="092"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=092"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="092"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="076"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/2020/logo/light/0604/076.png"
+height="20"
+alt="스포츠조선"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="076"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="076"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=076"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="076"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="018"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/2020/logo/light/0604/018.png"
+height="20"
+alt="이데일리"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="018"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="018"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=018"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="018"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="057"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/2020/logo/light/0604/057.png"
+height="20"
+alt="MBN"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="057"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="057"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=057"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="057"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="052"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/2020/logo/light/0604/052.png"
+height="20"
+alt="YTN"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="052"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="052"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=052"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="052"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="330"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/2020/logo/light/0604/330.png"
+height="20"
+alt="중앙데일리"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="330"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="330"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=330"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="330"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="015"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/2020/logo/light/0604/015.png"
+height="20"
+alt="한국경제"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="015"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="015"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=015"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="015"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="022"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/2020/logo/light/0604/022.png"
+height="20"
+alt="세계일보"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="022"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="022"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=022"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="022"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="032"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/2020/logo/light/0604/032.png"
+height="20"
+alt="경향신문"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="032"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="032"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=032"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="032"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="951"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/2020/logo/light/0604/951.png"
+height="20"
+alt="포브스코리아"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="951"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="951"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=951"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="951"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="981"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/2020/logo/light/0604/981.png"
+height="20"
+alt="TBS"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="981"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="981"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=981"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="981"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="135"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/2020/logo/light/0604/135.png"
+height="20"
+alt="시사저널"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="135"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="135"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=135"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="135"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="328"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/2020/logo/light/0604/328.png"
+height="20"
+alt="에이블뉴스"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="328"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="328"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=328"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="328"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="964"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/2020/logo/light/0604/964.png"
+height="20"
+alt="이뉴스투데이"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="964"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="964"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=964"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="964"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="417"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/2020/logo/light/0604/417.png"
+height="20"
+alt="머니에스"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="417"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="417"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=417"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="417"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="934"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/2020/logo/light/0604/934.png"
+height="20"
+alt="아리랑TV"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="934"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="934"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=934"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="934"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="905"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/2020/logo/light/0604/905.png"
+height="20"
+alt="더스쿠프"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="905"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="905"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=905"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="905"
+>기사보기</a
+>
+</div>
+</div>
+<div
+class="thumb_box _NM_NEWSSTAND_THUMB _NM_NEWSSTAND_THUMB_press_valid"
+data-pid="957"
+>
+<a href="#" class="thumb">
+<img
+src="https://s.pstatic.net/static/newsstand/2020/logo/light/0604/957.png"
+height="20"
+alt="시사위크"
+class="news_logo"
+/>
+<span class="thumb_dim"></span
+></a>
+<div class="popup_wrap">
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_subscribe_press"
+data-pid="957"
+data-clk="sub"
+>구독</a
+>
+<a
+href="#"
+role="button"
+class="btn_popup _NM_NEWSSTAND_THUMB_unsubscribe_press"
+data-pid="957"
+data-clk="unsub"
+>해지</a
+>
+<a
+href="http://newsstand.naver.com/?list=&pcode=957"
+target="_blank"
+class="btn_popup"
+data-clk="logo"
+data-pid="957"
+>기사보기</a
+>
+</div>
+</div>
+</div>
+</div>
+</div>
+  </div> <div class="ly_popup NM_NEWSSTAND_POPUP NM_NEWSSTAND_invalid" style="display:none"> <a href="#" role="button" class="btn_close NM_NEWSSTAND_POPUP_CLOSE"><i class="ico_close"></i><span class="blind">닫기</span></a> <p class="popup_msg">해당 언론사 사정으로 접근이 일시 제한됩니다.</p> <div class="popup_btn"> <a href="#" role="button" class="btn_confirm NM_NEWSSTAND_POPUP_CLOSE">확인</a> </div> </div> <div class="ly_popup NM_NEWSSTAND_POPUP NM_NEWSSTAND_undescribe_confirm" style="display:none" data-clk-sub="*a"> <a href="#" role="button" class="btn_close NM_NEWSSTAND_POPUP_CLOSE" data-clk="usclose"><i class="ico_close"></i><span class="blind">닫기</span></a> <p class="popup_msg"><strong class="NM_NEWSSTAND_POPUP_PNAME"></strong>을(를)<br/>구독해지 하시겠습니까?</p> <div class="popup_btn"> <a href="#" role="button" class="btn_confirm NM_NEWSSTAND_POPUP_CONFIRM" data-clk="usdone">확인</a> <a href="#" role="button" class="btn_confirm NM_NEWSSTAND_POPUP_CLOSE" data-clk="uscancel">취소</a> </div> </div> <div class="ly_toast NM_NEWSSTAND_TOAST" style="display:none"> <p class="toast_msg">구독한 언론사에 추가되었습니다.</p> </div> </div> <div id="NM_NEWSSTAND_MY_LIST" class="group_news" style="display:none" data-clk-prefix="nsd_myn"> <a href="#" role="button" class="pm_btn_prev_l _NM_NEWSSTAND_LIST_prev_btn" data-clk-custom="prev"><i class="ico_btn"></i><span class="blind">이전</span></a> <a href="#" role="button" class="pm_btn_next_l _NM_NEWSSTAND_LIST_next_btn" data-clk-custom="next"><i class="ico_btn"></i><span class="blind">다음</span><span class="blind">다음</span></a> <div class="list_view"> <div class="option_area"> <div class="list_option_wrap"> <ul class="list_option _NM_NEWSSTAND_MY_presslist"> <!-- nvpaperlist:empty --> </ul> </div> </div> <div class="_NM_NEWSSTAND_ARTICLE_CONTAINER" data-clk-sub="*a">  </div> </div> <div class="ly_popup NM_NEWSSTAND_POPUP NM_NEWSSTAND_invalid" style="display:none"> <a href="#" role="button" class="btn_close NM_NEWSSTAND_POPUP_CLOSE"><i class="ico_close"></i><span class="blind">닫기</span></a> <p class="popup_msg">해당 언론사 사정으로 접근이 일시 제한됩니다.</p> <div class="popup_btn"> <a href="#" role="button" class="btn_confirm NM_NEWSSTAND_POPUP_CLOSE">확인</a> </div> </div> <div class="ly_popup NM_NEWSSTAND_POPUP NM_NEWSSTAND_undescribe_confirm" style="display:none" data-clk-sub="*a"> <a href="#" role="button" class="btn_close NM_NEWSSTAND_POPUP_CLOSE" data-clk="usclose"><i class="ico_close"></i><span class="blind">닫기</span></a> <p class="popup_msg"><strong class="NM_NEWSSTAND_POPUP_PNAME"></strong>을(를)<br>구독해지 하시겠습니까?</p> <div class="popup_btn"> <a href="#" role="button" class="btn_confirm NM_NEWSSTAND_POPUP_CONFIRM" data-clk="usdone">확인</a> <a href="#" role="button" class="btn_confirm NM_NEWSSTAND_POPUP_CLOSE" data-clk="uscancel">취소</a> </div> </div> </div> <div id="NM_NEWSSTAND_MY_THUMB" class="group_news" style="display:none" data-clk-prefix="nsd_myn"> <a href="#" role="button" class="pm_btn_prev_l _NM_UI_PAGE_PREV" data-clk-custom="prev"><i class="ico_btn"><span class="blind">이전</span></i></a> <a href="#" role="button" class="pm_btn_next_l _NM_UI_PAGE_NEXT" data-clk-custom="next"><i class="ico_btn"><span class="blind">다음</span></i></a> <div class="_NM_UI_PAGE_CONTAINER" data-clk-sub="*p"></div> <div class="ly_popup NM_NEWSSTAND_POPUP NM_NEWSSTAND_invalid" style="display:none"> <a href="#" role="button" class="btn_close NM_NEWSSTAND_POPUP_CLOSE"><i class="ico_close"></i><span class="blind">닫기</span></a> <p class="popup_msg">해당 언론사 사정으로 접근이 일시 제한됩니다.</p> <div class="popup_btn"> <a href="#" role="button" class="btn_confirm NM_NEWSSTAND_POPUP_CLOSE">확인</a> </div> </div> <div class="ly_popup NM_NEWSSTAND_POPUP NM_NEWSSTAND_undescribe_confirm" style="display:none" data-clk-sub="*a"> <a href="#" role="button" class="btn_close NM_NEWSSTAND_POPUP_CLOSE" data-clk="usclose"><i class="ico_close"></i><span class="blind">닫기</span></a> <p class="popup_msg"><strong class="NM_NEWSSTAND_POPUP_PNAME"></strong>을(를)<br>구독해지 하시겠습니까?</p> <div class="popup_btn"> <a href="#" role="button" class="btn_confirm NM_NEWSSTAND_POPUP_CONFIRM" data-clk="usdone">확인</a> <a href="#" role="button" class="btn_confirm NM_NEWSSTAND_POPUP_CLOSE" data-clk="uscancel">취소</a> </div> </div> </div> <div id="NM_NEWSSTAND_MY_EMPTY" class="group_news" style="display:none"> <div class="error_view"> <div class="error_area"> <strong class="error_msg">구독한 언론사가 없습니다.</strong> <p class="dsc_msg">언론사 구독 설정에서 관심있는 언론사를 구독하시면<br>언론사가 직접 편집한 뉴스들을 네이버 홈에서 바로 보실 수 있습니다.</p> <a href="http://newsstand.naver.com/config.html" class="link_redirect" target="_blank">언론사 구독 설정하기</a> </div> </div> </div> </div> </div> <!-- EMPTY --> <div id="NM_THEMECAST_CONTENTS_CONTAINER"> <div id="themecast" class="sc_themecast id_livinghome" data-fixed="LIVINGHOME">
+	<h2 class="blind">주제별 캐스트</h2>
+	<div class="theme_head">
+		<div class="group_title">
+	<div class="title_area">
+		<strong class="title">오늘 읽을만한 글</strong><span class="dsc">주제별로 분류된 다양한 글 모음</span>
+	</div>
+	<div class="info_area">
+		
+			<span class="info"><strong class="new">1,817</strong> 개의 글</span>
+		
+		<a id="NM_THEME_EDIT_SET" href="#" role="button" class="btn_set" data-clk="tca.like">관심주제 설정</a>
+	</div>
+</div>
+<div class="theme_fix_wrap">
+	<div id="NM_THEME_CATE_GROUPS" class="group_category" data-demo-key="default">
+		<div class="main_category">
+			<a href="#" role="button" class="pm_btn_prev NM_THEME_PREV" data-clk="tct.prev" style="display: none;">
+				<i class="ico_btn"><span class="blind">이전</span></i>
+			</a>
+			<a href="#" role="button" class="pm_btn_next NM_THEME_NEXT" data-clk="tct.next" style="display: none;">
+				<i class="ico_btn"><span class="blind">다음</span></i>
+			</a>
+			<div id="NM_THEME_CATE_FLICK" class="_NM_UI_PAGE_CONTAINER" style="height: 49px; overflow: hidden;">
+				
+					<div style="width: 750px;">
+						<ul class="list_category" role="tablist">
+							
+								<li class="category_item" role="presentation">
+									
+									
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_enter"
+									   aria-selected="false"
+									   data-clk="tct.tvc" data-panel-code="ENTER">엔터</a>
+								</li>
+							
+								<li class="category_item" role="presentation">
+									
+									
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_sports"
+									   aria-selected="false"
+									   data-clk="tct.spo" data-panel-code="SPORTS">스포츠</a>
+								</li>
+							
+								<li class="category_item" role="presentation">
+									
+									
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_cargame"
+									   aria-selected="false"
+									   data-clk="tct.aut" data-panel-code="CARGAME">자동차</a>
+								</li>
+							
+								<li class="category_item" role="presentation">
+									
+									
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_bboom"
+									   aria-selected="false"
+									   data-clk="tct.web" data-panel-code="BBOOM">웹툰</a>
+								</li>
+							
+								<li class="category_item" role="presentation">
+									
+									
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_finance"
+									   aria-selected="false"
+									   data-clk="tct.fin" data-panel-code="FINANCE">경제M</a>
+								</li>
+							
+								<li class="category_item" role="presentation">
+									
+									
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_living"
+									   aria-selected="false"
+									   data-clk="tct.fod" data-panel-code="LIVING">레시피</a>
+								</li>
+							
+								<li class="category_item" role="presentation">
+									
+									
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_gameapp"
+									   aria-selected="false"
+									   data-clk="tct.gam" data-panel-code="GAMEAPP">게임</a>
+								</li>
+							
+								<li class="category_item" role="presentation">
+									
+									
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_movie"
+									   aria-selected="false"
+									   data-clk="tct.mov" data-panel-code="MOVIE">영화</a>
+								</li>
+							
+						</ul>
+					</div>
+				
+					<div style="width: 750px;">
+						<ul class="list_category" role="tablist">
+							
+								<li class="category_item" role="presentation">
+									
+									
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_job"
+									   aria-selected="false"
+									   data-clk="tct.job" data-panel-code="JOB">JOB&amp;</a>
+								</li>
+							
+								<li class="category_item" role="presentation">
+									
+									
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_ittech"
+									   aria-selected="false"
+									   data-clk="tct.tec" data-panel-code="ITTECH">테크</a>
+								</li>
+							
+								<li class="category_item" role="presentation">
+									
+									
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_travel"
+									   aria-selected="false"
+									   data-clk="tct.tra" data-panel-code="TRAVEL">여행+</a>
+								</li>
+							
+								<li class="category_item" role="presentation">
+									
+									
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_science"
+									   aria-selected="false"
+									   data-clk="tct.sci" data-panel-code="SCIENCE">과학</a>
+								</li>
+							
+								<li class="category_item" role="presentation">
+									
+									
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_livinghome"
+									   aria-selected="true"
+									   data-clk="tct.lif" data-panel-code="LIVINGHOME">리빙</a>
+								</li>
+							
+								<li class="category_item" role="presentation">
+									
+									
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_health"
+									   aria-selected="false"
+									   data-clk="tct.hea" data-panel-code="HEALTH">건강</a>
+								</li>
+							
+								<li class="category_item" role="presentation">
+									
+									
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_business"
+									   aria-selected="false"
+									   data-clk="tct.bsn" data-panel-code="BUSINESS">비즈니스</a>
+								</li>
+							
+								<li class="category_item" role="presentation">
+									
+									
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_wedding"
+									   aria-selected="false"
+									   data-clk="tct.wed" data-panel-code="WEDDING">연애·결혼</a>
+								</li>
+							
+						</ul>
+					</div>
+				
+					<div style="width: 750px;">
+						<ul class="list_category" role="tablist">
+							
+								<li class="category_item" role="presentation">
+									
+									
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_culture"
+									   aria-selected="false"
+									   data-clk="tct.bok" data-panel-code="CULTURE">책방</a>
+								</li>
+							
+								<li class="category_item" role="presentation">
+									
+									
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_momkids"
+									   aria-selected="false"
+									   data-clk="tct.mom" data-panel-code="MOMKIDS">부모i</a>
+								</li>
+							
+								<li class="category_item" role="presentation">
+									
+									
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_law"
+									   aria-selected="false"
+									   data-clk="tct.law" data-panel-code="LAW">법률</a>
+								</li>
+							
+								<li class="category_item" role="presentation">
+									
+									
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_beauty"
+									   aria-selected="false"
+									   data-clk="tct.bty" data-panel-code="BEAUTY">패션뷰티</a>
+								</li>
+							
+								<li class="category_item" role="presentation">
+									
+									
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_animal"
+									   aria-selected="false"
+									   data-clk="tct.ani" data-panel-code="ANIMAL">동물공감</a>
+								</li>
+							
+								<li class="category_item" role="presentation">
+									
+									
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_design"
+									   aria-selected="false"
+									   data-clk="tct.des" data-panel-code="DESIGN">디자인</a>
+								</li>
+							
+								<li class="category_item" role="presentation">
+									
+									
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_china"
+									   aria-selected="false"
+									   data-clk="tct.chn" data-panel-code="CHINA">중국</a>
+								</li>
+							
+								<li class="category_item" role="presentation">
+									
+									
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_farm"
+									   aria-selected="false"
+									   data-clk="tct.far" data-panel-code="FARM">FARM</a>
+								</li>
+							
+						</ul>
+					</div>
+				
+					<div style="width: 750px;">
+						<ul class="list_category" role="tablist">
+							
+								<li class="category_item" role="presentation">
+									
+									
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_show"
+									   aria-selected="false"
+									   data-clk="tct.sow" data-panel-code="SHOW">공연전시</a>
+								</li>
+							
+								<li class="category_item" role="presentation">
+									
+									
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_with"
+									   aria-selected="false"
+									   data-clk="tct.pub" data-panel-code="WITH">함께N</a>
+								</li>
+							
+								<li class="category_item" role="presentation">
+									
+									
+									<a href="#" role="tab" class="_NM_THEME_CATE tab id_school"
+									   aria-selected="false"
+									   data-clk="tct.scl" data-panel-code="SCHOOL">스쿨잼</a>
+								</li>
+							
+						</ul>
+					</div>
+				
+			</div>
+		</div>
+	</div>
+</div>
+
+	</div>
+	<div class="theme_cont" data-panel-code="LIVINGHOME">
+		
+<div class="group_theme" data-block-id="" data-block-code="PC-THEME-LIVINGHOME-MOBILE-RANKING-DEFAULT-0" data-block-type="MATERIALS" data-template-code="MOBILE-RANKING-LIST"
+
+	 data-da="container"
+	 data-index=""
+     data-page="1"
+	 >
+
+	<div class="list_theme_wrap">
+		<ul class="list_theme">
+			
+				<li class="theme_item" data-gdid="b52738e1-8839-4544-971b-38c63be162b6-89300af0-2579-47f7-b236-7ace3785bf8a" data-da-position="true">
+					<a href="https://m.blog.naver.com/yahsi2000/222432366442" class="theme_thumb" data-clk="tcc_lif.list1cont1" target="_blank">
+						<img src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20210716_161%2F162640418874435YWG_JPEG%2F750_1.jpg%22&amp;type&#x3D;nf340_228" data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20210716_161%2F162640418874435YWG_JPEG%2F750_1.jpg%22&amp;type&#x3D;nf340_228" alt="취향으로 꾸민 집 " width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://m.blog.naver.com/yahsi2000/222432366442" class="theme_info" data-clk="tcc_lif.list1cont1" target="_blank">
+						<em class="theme_category"> 리빙</em>
+						<strong class="title elss">취향으로 꾸민 집 </strong>
+						<p class="desc">이사 그 후의 변화 맞벌이 부부이고 주말에만 시간을 내다보니 이사하고 3달이 지나가면서도 이사 초반과 비슷하게 별 변화를 주지 못하고 있었어요 거실은 허전하긴해도 그래도 지낼만하게 정리되어있는데 방은 그야말로 창고처럼 짐이 마구 쌓여 있었거든요. 뭔가 이래서는 쭉~ 이렇게 살것만 같아서 안되겠다 싶어 퇴근 후 주말 짬 시간만 나면 정리.. 정리... 정리를</p>
+						<div class="source_box">
+							<span class="date">4일 전</span>
+							<span class="source"><span class="source_inner">아이리스</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="2e35f030-ee30-4eba-b18a-3755f16b3c5c-79000b7b-fe1b-476e-bd64-2f6e489bc001" data-da-position="true">
+					<a href="https://m.post.naver.com/viewer/postView.naver?memberNo&#x3D;24659848&amp;volumeNo&#x3D;31645870" class="theme_thumb" data-clk="tcc_lif.list1cont2" target="_blank">
+						<img src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20210717_101%2F1626529718904GlbK9_JPEG%2F336_9.jpg%22&amp;type&#x3D;nf340_228" data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20210717_101%2F1626529718904GlbK9_JPEG%2F336_9.jpg%22&amp;type&#x3D;nf340_228" alt="상가주택 짓기, 좁은 땅에 지은 상가주택 사례" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://m.post.naver.com/viewer/postView.naver?memberNo&#x3D;24659848&amp;volumeNo&#x3D;31645870" class="theme_info" data-clk="tcc_lif.list1cont2" target="_blank">
+						<em class="theme_category"> 리빙</em>
+						<strong class="title elss">상가주택 짓기, 좁은 땅에 지은 상가주택 사례</strong>
+						<p class="desc">상가주택은 수익성을 목적으로 짓지만, 내면에 담긴 이야기를 들여다보면 수익보다 더 중요한 것들이 있다. 지역 개발로 기존 터전을 떠나야 했거나, 꿈을 이루기 위해, 흩어진 가족이 함께 모여 살려고 상가주택을 대안으로 선택한 것이다. 이번 사례에선 처한 형편이나 환경에 맞춰 성공적으로 상가주택을 완성한 이야기를 모았다. 글 백홍기 기자 자료 전원주택라이프 D</p>
+						<div class="source_box">
+							<span class="date">3일 전</span>
+							<span class="source"><span class="source_inner">전원주택라이프</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="6df38a7c-f90f-4f03-b18e-168b417757cf" data-da-position="true">
+					<a href="https://m.blog.naver.com/living_food/222415968305" class="theme_thumb" data-clk="tcc_lif.list1cont3" target="_blank">
+						<img src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20210719_160%2F1626657789898dNkm0_JPEG%2F366_3.jpg%22&amp;type&#x3D;nf340_228" data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20210719_160%2F1626657789898dNkm0_JPEG%2F366_3.jpg%22&amp;type&#x3D;nf340_228" alt="예쁜 우리집 소개하면 네이버페이 20만원을 드려요" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://m.blog.naver.com/living_food/222415968305" class="theme_info" data-clk="tcc_lif.list1cont3" target="_blank">
+						<em class="theme_category"> 리빙</em>
+						<strong class="title elss">예쁜 우리집 소개하면 네이버페이 20만원을 드려요</strong>
+						<p class="desc">■ 이벤트 진행 기간 기간 : 2021. 07.01 ~ 2021.07.31 발표 : 2021. 8.13 ■혜택 최우수 5명/ 홈스타일링 지원금 20만 원 우수 20명 / 홈스타일링 지원금 5만 원 * 콘텐츠 작성 TIP 예쁘게 꾸민 우리 집! 가장 마음에 드는 공간을 소개해주세요. * 선정 TIP 이벤트 참여 후 리빙판에 소개된 콘텐츠 중, 최우수작과 우수</p>
+						<div class="source_box">
+							<span class="date">2주일 전</span>
+							<span class="source"><span class="source_inner">리빙N레시피</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="60ed02f2b466010dc0de12f5" data-da-position="true">
+					<a href="https://m.blog.naver.com/tmzkti58/222418528444" class="theme_thumb" data-clk="tcc_lif.list1cont4" target="_blank">
+						<img src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20210713_102%2F16261454584021sLzw_JPEG%2F750_2.jpg%22&amp;type&#x3D;nf340_228" data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20210713_102%2F16261454584021sLzw_JPEG%2F750_2.jpg%22&amp;type&#x3D;nf340_228" alt="집콕 여행 중" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://m.blog.naver.com/tmzkti58/222418528444" class="theme_info" data-clk="tcc_lif.list1cont4" target="_blank">
+						<em class="theme_category"> 리빙</em>
+						<strong class="title elss">집콕 여행 중</strong>
+						<p class="desc">둘째 출산을 하고 산후조리를 해야하는 올 해 여름/ 코로나도 여전히 심각한 듯 하여 올 해 여름은 꼼짝없이 집콕이다. 여름집콕생활을 대비해 파라솔과 라탄파티션으로 나만의 휴양지 느낌의 베란다를 꾸몄다가 ,,,, 수영장에 물은 넣지않고 물놀이장난감을 사주어서 가지고 놀게 해주었다. 몬스테라화분/극락조화분/이레카야자화분과 유칼립투스조화나무/ 야자수조화나무를 두</p>
+						<div class="source_box">
+							<span class="date">2주일 전</span>
+							<span class="source"><span class="source_inner">봄이머무는집</span></span>
+						</div>
+					</a>
+				</li>
+			
+		</ul>
+	</div>
+</div>
+<div class="group_theme" data-block-id="" data-block-code="PC-THEME-LIVINGHOME-MOBILE-RANKING-DEFAULT-1" data-block-type="MATERIALS" data-template-code="MOBILE-RANKING-LIST"
+
+	 data-da="container"
+	 data-index=""
+     data-page="1"
+	 >
+
+	<div class="list_theme_wrap">
+		<ul class="list_theme">
+			
+				<li class="theme_item" data-gdid="60f42293b466010dc0deaaed" data-da-position="true">
+					<a href="https://m.blog.naver.com/whhylms/222430219768" class="theme_thumb" data-clk="tcc_lif.list2cont1" target="_blank">
+						<img src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20210718_91%2F1626612361283ojVlT_JPEG%2F336_12.jpg%22&amp;type&#x3D;nf340_228" data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20210718_91%2F1626612361283ojVlT_JPEG%2F336_12.jpg%22&amp;type&#x3D;nf340_228" alt="하나씩 화이트로 채운 주방 인테리어 #30평대" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://m.blog.naver.com/whhylms/222430219768" class="theme_info" data-clk="tcc_lif.list2cont1" target="_blank">
+						<em class="theme_category"> 리빙</em>
+						<strong class="title elss">하나씩 화이트로 채운 주방 인테리어 #30평대</strong>
+						<p class="desc">처음 집 보러 왔을 때부터! 타일, 상,하부장, 후드 모두 화이트로 되어있어서 너무나 맘에 들었던 주방! 이 하얀 곳에 걸맞기 위해 화이트한 것들로 주방을 채우기로 했다! 첫번째 식탁과 의자 우리집 주방에서 가장 큰 면적을 차지하는 식탁과 식탁의자. 식탁과 의자는 이전에도 포스팅을 했으므로 설명 패스! (상품정보) - 식탁: 이케아 달스훌트 - 의자: 노마</p>
+						<div class="source_box">
+							<span class="date">5일 전</span>
+							<span class="source"><span class="source_inner">만수</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="60eea2c20d0eed0db9592427" data-da-position="true">
+					<a href="https://m.blog.naver.com/hazi_0/222427899091" class="theme_thumb" data-clk="tcc_lif.list2cont2" target="_blank">
+						<img src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20210718_131%2F1626600653156gvU7e_JPEG%2F750_5.jpg%22&amp;type&#x3D;nf340_228" data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20210718_131%2F1626600653156gvU7e_JPEG%2F750_5.jpg%22&amp;type&#x3D;nf340_228" alt="우리집 빈티지 가구 이야기" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://m.blog.naver.com/hazi_0/222427899091" class="theme_info" data-clk="tcc_lif.list2cont2" target="_blank">
+						<em class="theme_category"> 리빙</em>
+						<strong class="title elss">우리집 빈티지 가구 이야기</strong>
+						<p class="desc">난 빈티지 소품이나 가구를 좋아한다. 요새는 워낙 유행이긴 하지만, 생각해보면 진짜 어릴때부터 좋아했다. 뭔가 평범하지 않은 옛스런 물건에 대한 로망이 있는듯? 사실 이 취향은 꽤 확고한 거라 사극, 한복, 드레스, 전통복식.. 원래 이런것들 다 좋아한다. 박물관 구경도 좋아하고 옛것인데 이쁜 것들 좋아해서 어릴때 중국 놀러가도 비녀같은거 사오고 중국옷도 </p>
+						<div class="source_box">
+							<span class="date">1주일 전</span>
+							<span class="source"><span class="source_inner">하지</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="60f425040d0eed0db9597343-04d3c12c-24c6-4a63-a1cb-938e98e61fb8" data-da-position="true">
+					<a href="https://m.blog.naver.com/paple21/222412640161" class="theme_thumb" data-clk="tcc_lif.list2cont3" target="_blank">
+						<img src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20210718_205%2F1626611737756BnrKi_JPEG%2F336_10.jpg%22&amp;type&#x3D;nf340_228" data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20210718_205%2F1626611737756BnrKi_JPEG%2F336_10.jpg%22&amp;type&#x3D;nf340_228" alt="비닐 없이 장 보기 도전 #일상 #제로웨이스트" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://m.blog.naver.com/paple21/222412640161" class="theme_info" data-clk="tcc_lif.list2cont3" target="_blank">
+						<em class="theme_category"> 리빙</em>
+						<strong class="title elss">비닐 없이 장 보기 도전 #일상 #제로웨이스트</strong>
+						<p class="desc">[살림] 제로웨이스트 용기내 망원시장, 용기로 장보고 종량제봉투 교환 용기내 망원시장! 큽큽~ 5월부터 시작된 용기내 망원시장 쿠폰 지난 5월초 망원시장은 친화경시장 선포를 했다 포장비닐도 생분해 어쩌고 저쩌고… 하지만 상인모두 100% 참여하는건 아닌것 같다 플라스틱에 포장되어 있는 음식은 구매하지 않겠다고 말하면(구입하지 않을 권리도 분명 내게 있다!)</p>
+						<div class="source_box">
+							<span class="date">3주일 전</span>
+							<span class="source"><span class="source_inner">상실이집사 리나</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="60f425040d0eed0db9597344-56720c0d-6c79-4d6a-a2a4-1b1ed7f6744f" data-da-position="true">
+					<a href="https://m.blog.naver.com/momayai/222414237730" class="theme_thumb" data-clk="tcc_lif.list2cont4" target="_blank">
+						<img src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20210718_83%2F1626612957218vJADg_JPEG%2F336_15.jpg%22&amp;type&#x3D;nf340_228" data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20210718_83%2F1626612957218vJADg_JPEG%2F336_15.jpg%22&amp;type&#x3D;nf340_228" alt="이걸 몰랐네, 닫히지 않는 서랍 레일 빼는 방법 " width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://m.blog.naver.com/momayai/222414237730" class="theme_info" data-clk="tcc_lif.list2cont4" target="_blank">
+						<em class="theme_category"> 리빙</em>
+						<strong class="title elss">이걸 몰랐네, 닫히지 않는 서랍 레일 빼는 방법 </strong>
+						<p class="desc">- 깨알 살림 노하우 꿀팁 - 서랍 레일 빼는법 &amp; 레일서랍빼는법 언제부터인가 거슬리고 닫히지 않은 마지막 칸 서랍이 신경 쓰이고 말았다. 옷이 들어갔는지 도통 닫히지 않는 거야. 무식하게 힘으로 열면 되겠지 생각했는데 열리기는커녕 끈적끈적한 검은 기름만 묻고 말았다. 남편이 해도 꽝, 내가 해도 꽝! 몇 달간 열린 채로 지냈지만 혹시라도 아이들이 뛰다가 </p>
+						<div class="source_box">
+							<span class="date">2주일 전</span>
+							<span class="source"><span class="source_inner">yo9르트</span></span>
+						</div>
+					</a>
+				</li>
+			
+		</ul>
+	</div>
+</div>
+<div class="group_theme _NM_API_UI" data-ui-circular="false" data-block-id="5edf1cb2d6902f284e3b826d" data-block-code="" data-block-type="BLOCKS" data-template-code="FLICKING-IMAGE3"
+
+    >
+    <div class="theme_title">
+        <a href="https://happybean.naver.com/" class="title" target="_blank"
+            data-clk="tcc_lif.happytitle">오늘 가장 따뜻한 클릭</a>
+    </div>
+    <div class=" media_view_wrap type_flick">
+        <a href="#" role="button" class="pm_btn_prev _NM_UI_PAGE_PREV" data-clk="tcc_lif.happypre"><i
+                class="ico_btn"><span class="blind">이전</span></i></a>
+        <a href="#" role="button" class="pm_btn_next _NM_UI_PAGE_NEXT" data-clk="tcc_lif.happynext"><i
+                class="ico_btn"><span class="blind">다음</span></i></a>
+        <div class="_NM_UI_PAGE_CONTAINER" style="overflow: hidden; height: 240px;">
+            
+            <div style="width:750px">
+                <div class="media_view">
+                    
+                    <a href="https://happybean.naver.com/fundings/detail/F185?p&#x3D;p&amp;s&#x3D;nmlp" target="_blank" class="media_area" data-gdid="F185"
+                        data-clk="tcc_lif.happycon1">
+                        <div class="media_thumb">
+                            <img src="https://happybean-phinf.pstatic.net/20210706_139/1625553169377Lsd1C_JPEG/m1.jpg?type&#x3D;f464_260" alt="자연산 수산물 원물 그대로 반려동물 간식" width="232" height="130">
+                            <span class="thumb_bd"></span>
+                            <em class="theme_badge"><span class="badge_inner">펀딩</span></em>
+                        </div>
+                        <div class="media_info">
+                            <div class="info_box">
+                                <strong class="title">자연산 수산물 원물 그대로 반려동물 간식</strong>
+                                <div class="source_wrap">
+                                    <span class="dsc"><em class="theme_hl">290%</em> 달성</span>
+                                    <span class="source"><span class="source_inner">동해형씨</span></span>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                    
+                    <a href="https://happybean.naver.com/fundings/detail/F166?p&#x3D;p&amp;s&#x3D;nmlp" target="_blank" class="media_area" data-gdid="F166"
+                        data-clk="tcc_lif.happycon2">
+                        <div class="media_thumb">
+                            <img src="https://happybean-phinf.pstatic.net/20210702_202/1625192052204ksgTX_JPEG/content4.jpg?type&#x3D;f464_260" alt="꽃과 나무를 담은, 밀랍 꽃포장지" width="232" height="130">
+                            <span class="thumb_bd"></span>
+                            <em class="theme_badge"><span class="badge_inner">펀딩</span></em>
+                        </div>
+                        <div class="media_info">
+                            <div class="info_box">
+                                <strong class="title">꽃과 나무를 담은, 밀랍 꽃포장지</strong>
+                                <div class="source_wrap">
+                                    <span class="dsc"><em class="theme_hl">42%</em> 달성</span>
+                                    <span class="source"><span class="source_inner">손끋비</span></span>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                    
+                    <a href="https://happybean.naver.com/donations/H000000179375?p&#x3D;p&amp;s&#x3D;nmlp" target="_blank" class="media_area" data-gdid="H000000179375"
+                        data-clk="tcc_lif.happycon3">
+                        <div class="media_thumb">
+                            <img src="https://happybean-phinf.pstatic.net/20210716_153/1626426233012PDI5q_JPEG/03_%EB%A6%AC%EB.jpg?type&#x3D;f464_260" alt="태어난 지 4개월 만에 뇌전증을 진단받은 준우" width="232" height="130">
+                            <span class="thumb_bd"></span>
+                            <em class="theme_badge"><span class="badge_inner">기부</span></em>
+                        </div>
+                        <div class="media_info">
+                            <div class="info_box">
+                                <strong class="title">태어난 지 4개월 만에 뇌전증을 진단받은 준우</strong>
+                                <div class="source_wrap">
+                                    <span class="dsc"><em class="theme_hl">6,240,300원</em> 기부</span>
+                                    <span class="source"><span class="source_inner">한국어린이난치병협회</span></span>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                    
+                </div>
+            </div>
+            
+            <div style="width:750px">
+                <div class="media_view">
+                    
+                    <a href="https://happybean.naver.com/fundings/detail/F165?p&#x3D;p&amp;s&#x3D;nmlp" target="_blank" class="media_area" data-gdid="F165"
+                        data-clk="tcc_lif.happycon4">
+                        <div class="media_thumb">
+                            <img src="https://happybean-phinf.pstatic.net/20210618_13/1624008532842YNQOr_JPEG/th.jpg?type&#x3D;f464_260" alt="우리 쌀로 만들어 건강한 쌀국수와 라이스칩" width="232" height="130">
+                            <span class="thumb_bd"></span>
+                            <em class="theme_badge"><span class="badge_inner">펀딩</span></em>
+                        </div>
+                        <div class="media_info">
+                            <div class="info_box">
+                                <strong class="title">우리 쌀로 만들어 건강한 쌀국수와 라이스칩</strong>
+                                <div class="source_wrap">
+                                    <span class="dsc"><em class="theme_hl">207%</em> 달성</span>
+                                    <span class="source"><span class="source_inner">그린맥스</span></span>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                    
+                    <a href="https://happybean.naver.com/fundings/detail/F164?p&#x3D;p&amp;s&#x3D;nmlp" target="_blank" class="media_area" data-gdid="F164"
+                        data-clk="tcc_lif.happycon5">
+                        <div class="media_thumb">
+                            <img src="https://happybean-phinf.pstatic.net/20210615_15/1623750112641UpMGR_JPEG/th.jpg?type&#x3D;f464_260" alt="집에서 맛보는 여름, 신선한 수박과 감자" width="232" height="130">
+                            <span class="thumb_bd"></span>
+                            <em class="theme_badge"><span class="badge_inner">펀딩</span></em>
+                        </div>
+                        <div class="media_info">
+                            <div class="info_box">
+                                <strong class="title">집에서 맛보는 여름, 신선한 수박과 감자</strong>
+                                <div class="source_wrap">
+                                    <span class="dsc"><em class="theme_hl">234%</em> 달성</span>
+                                    <span class="source"><span class="source_inner">외갓집영농조합법인</span></span>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                    
+                    <a href="https://happybean.naver.com/donations/H000000179198?p&#x3D;p&amp;s&#x3D;nmlp" target="_blank" class="media_area" data-gdid="H000000179198"
+                        data-clk="tcc_lif.happycon6">
+                        <div class="media_thumb">
+                            <img src="https://happybean-phinf.pstatic.net/20210716_281/1626426350555gtsqf_JPEG/06_%EB%A6%AC%EB.jpg?type&#x3D;f464_260" alt="낡고 비닐하우스 속, 폭염을 견디며 살아가는 이웃들" width="232" height="130">
+                            <span class="thumb_bd"></span>
+                            <em class="theme_badge"><span class="badge_inner">기부</span></em>
+                        </div>
+                        <div class="media_info">
+                            <div class="info_box">
+                                <strong class="title">낡고 비닐하우스 속, 폭염을 견디며 살아가는 이웃들</strong>
+                                <div class="source_wrap">
+                                    <span class="dsc"><em class="theme_hl">678,500원</em> 기부</span>
+                                    <span class="source"><span class="source_inner">사단법인 푸른나눔</span></span>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                    
+                </div>
+            </div>
+            
+        </div>
+    </div>
+</div>
+<div class="group_theme" data-block-id="" data-block-code="PC-THEME-LIVINGHOME-MOBILE-RANKING-DEFAULT-2" data-block-type="MATERIALS" data-template-code="MOBILE-RANKING-LIST"
+
+	 data-da="container"
+	 data-index=""
+     data-page="2"
+	 style="display:none">
+
+	<div class="list_theme_wrap">
+		<ul class="list_theme">
+			
+				<li class="theme_item" data-gdid="f5f9c9d4-0436-4a0e-9ed5-9e5d0cc1fc94-e2c90b3f-9bc5-4543-a193-d6752725e0fe" data-da-position="true">
+					<a href="https://m.blog.naver.com/appleshoo/222415341553" class="theme_thumb" data-clk="tcc_lif.list3cont1" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20210716_275%2F16264040989452BpFH_JPEG%2F750_2.jpg%22&amp;type&#x3D;nf340_228" alt="오래된 단독주택 리모델링" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://m.blog.naver.com/appleshoo/222415341553" class="theme_info" data-clk="tcc_lif.list3cont1" target="_blank">
+						<em class="theme_category"> 리빙</em>
+						<strong class="title elss">오래된 단독주택 리모델링</strong>
+						<p class="desc">안녕하세요 린다예요:) 오늘은 1층 거실과 주방 인테리어를 보여드리려고 해요 본격적인 랜선 집들이라 생각해주세요 ☺ 단독주택 인테리어 기록 첫번째, 집 계약 스토리는 요기 https://blog.naver.com/appleshoo/222253914085 인테리어 기록 두번째.단독주택 올 리모델링 스토리는 이 포스팅을 참고해주세요 https://blog.na</p>
+						<div class="source_box">
+							<span class="date">2주일 전</span>
+							<span class="source"><span class="source_inner">린다</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="74b3c4b4-4bff-493b-bcd5-e00a72e172ea-bee29eae-083b-4c8b-b849-6ece073b350c" data-da-position="true">
+					<a href="https://m.blog.naver.com/tinterior10/222404876342" class="theme_thumb" data-clk="tcc_lif.list3cont2" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20210716_186%2F1626405752244xMvJV_JPEG%2F336_0.jpg%22&amp;type&#x3D;nf340_228" alt="전부 블랙이지만 어둡지 않은 욕실 #공간별인테리어" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://m.blog.naver.com/tinterior10/222404876342" class="theme_info" data-clk="tcc_lif.list3cont2" target="_blank">
+						<em class="theme_category"> 리빙</em>
+						<strong class="title elss">전부 블랙이지만 어둡지 않은 욕실 #공간별인테리어</strong>
+						<p class="desc">호텔같은 욕실을 바랐습니다, 모서리가 날카롭지 않은 타일로 감싼 욕조가 있고 언더볼이 매립된 인조대리석 세면대 위에 디퓨져와 핸드크림이 담긴 트레이가 있는. 그런데 제가 믿고 일을 맡길 수 있는 타일시공 사장님이 조적을 안하신다고..흑흑.. 집 전체 바닥타일도 저 위해서 1200*600각을 깔아주시는데 차마 입이 안떨어졌습니다. 막상 철거하고보니 물 빠짐구</p>
+						<div class="source_box">
+							<span class="date">4주일 전</span>
+							<span class="source"><span class="source_inner">오네시</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="0780ef08-3496-4da7-97df-4acaced2ae0a-03623e64-c9ba-49b2-9f27-b892d16c7dfb" data-da-position="true">
+					<a href="https://m.blog.naver.com/wonni_93/222433000603" class="theme_thumb" data-clk="tcc_lif.list3cont3" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20210716_277%2F1626403890042LnY6v_JPEG%2F336_1.jpg%22&amp;type&#x3D;nf340_228" alt="나의 작은 방 랜선집들이 #원룸꾸미기 #일상" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://m.blog.naver.com/wonni_93/222433000603" class="theme_info" data-clk="tcc_lif.list3cont3" target="_blank">
+						<em class="theme_category"> 리빙</em>
+						<strong class="title elss">나의 작은 방 랜선집들이 #원룸꾸미기 #일상</strong>
+						<p class="desc">지금 집에서 지낸지도 벌써 1년 반이 지나간다. 그동안 많은 변화를 거쳤고, 지금도 계속 변화 중인 우리 집. 그렇지만 곧, 떠나게 될 예정이라 그 아쉬움을 대신해 늦은 #랜선집들이 를 해본다. EP 01. 드디어 생긴 &#x27;나의 작은방&#x27; 우리 집은 실평수 12평 아파트로 혼자 생활하거나 신혼부부가 지내기 적당하다. &#x27;엥? 12평이면 좁은데?&#x27; 라고 생각할 수</p>
+						<div class="source_box">
+							<span class="date">3일 전</span>
+							<span class="source"><span class="source_inner">wonni</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="13a082b5-110d-48ae-a4b5-5bea24b73b13-c6366144-2692-48c8-b2ac-ce3bbc6d0272" data-da-position="true">
+					<a href="https://m.blog.naver.com/graloraa/222409729426" class="theme_thumb" data-clk="tcc_lif.list3cont4" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20210703_197%2F1625240492785QThVl_JPEG%2F750_3.jpg%22&amp;type&#x3D;nf340_228" alt="여기가 팬트리였다고?" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://m.blog.naver.com/graloraa/222409729426" class="theme_info" data-clk="tcc_lif.list3cont4" target="_blank">
+						<em class="theme_category"> 리빙</em>
+						<strong class="title elss">여기가 팬트리였다고?</strong>
+						<p class="desc">팬트리의 발칙한 변신! welcome to 귤언니하우스~ 오늘은 햅삐- 한 금요일~ 다들 주말에 어떤 계획이 있으신지 궁금하네요^^ 오늘은 팬트리룸 이야기 한번 같이 나눠볼까 해요. 몇년전부터 새로짓는 아파트엔 거의 팬트리룸 이라는 공간이 꼭 들어가있는것같아요. 요즘엔 베란다 확장이 기본이니 잡동사니 수납공간이 너무 없어서 집 안에 팬트리룸을 두어 창고처럼</p>
+						<div class="source_box">
+							<span class="date">3주일 전</span>
+							<span class="source"><span class="source_inner">귤언니</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="8e7f8046-a393-4736-bfc3-5332ce2d5746-10f7a893-72d0-4599-8eb3-a72c23680439" data-da-position="true">
+					<a href="https://m.blog.naver.com/royal_norang/222386744838" class="theme_thumb" data-clk="tcc_lif.list3cont5" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20210715_256%2F1626354346320RQmiB_JPEG%2F336_4.jpg%22&amp;type&#x3D;nf340_228" alt=" 7년 차 주택살이, 요즘은 이렇습니다 #시골일상  " width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://m.blog.naver.com/royal_norang/222386744838" class="theme_info" data-clk="tcc_lif.list3cont5" target="_blank">
+						<em class="theme_category"> 리빙</em>
+						<strong class="title elss"> 7년 차 주택살이, 요즘은 이렇습니다 #시골일상  </strong>
+						<p class="desc">새 것에 마음이 설레이는 가장 큰 이유는, 반짝 반짝 그 본연의 색을 가지고 있어서일까? 색이 바라거나 때 묻지 않고 훼손되지 않은 그 자체라서. 늘 새 것 같을 수 없어서 더 많은 손길이 가는 집. 7년차 시골, 주택살이는 요즘 이러하다. 회색보다 밝고 흰색보다 어두운 우리집 외벽에 생긴 검은 얼룩이 무척 거슬려서 외벽 도색을 한 번 더 해야하나 외벽 청</p>
+						<div class="source_box">
+							<span class="date">1개월 전</span>
+							<span class="source"><span class="source_inner">서유란</span></span>
+						</div>
+					</a>
+				</li>
+			
+		</ul>
+	</div>
+</div>
+<div class="group_theme" data-block-id="" data-block-code="PC-THEME-LIVINGHOME-MOBILE-RANKING-DEFAULT-3" data-block-type="MATERIALS" data-template-code="MOBILE-RANKING-LIST"
+
+	 data-da="container"
+	 data-index=""
+     data-page="2"
+	 style="display:none">
+
+	<div class="list_theme_wrap">
+		<ul class="list_theme">
+			
+				<li class="theme_item" data-gdid="0ebcc9ce-8fb2-4c2b-bede-0f3c79c6caad-1dbc6f20-bf59-4cb2-97da-8a1532d1f66a" data-da-position="true">
+					<a href="https://m.blog.naver.com/jh110027/222426537395" class="theme_thumb" data-clk="tcc_lif.list4cont1" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20210712_71%2F1626097694949pr2HC_JPEG%2F336_1.jpg%22&amp;type&#x3D;nf340_228" alt="그냥 두기 아까운 베란다, 정원 &amp; 카페 만들기" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://m.blog.naver.com/jh110027/222426537395" class="theme_info" data-clk="tcc_lif.list4cont1" target="_blank">
+						<em class="theme_category"> 리빙</em>
+						<strong class="title elss">그냥 두기 아까운 베란다, 정원 & 카페 만들기</strong>
+						<p class="desc">몇 주만이죠..? 저도 바로 완성할 줄 알았어요 ^^ 식물 사는게 이렇게 어려운 일일줄이야 이제 장마철이라 식물 구하기가 더 힘들어져 대충 마무리하고… 베란다 공개합니다 여기서 좀 더 발전되면 또 기록해야즤요 Before 정말 빈 공간으로 휑해서 그냥 놔두기 아까운 공간이었어요 거실이랑 이어져있어서 거실에서 바라볼때 예쁘면 좋겠다 생각했됴 Concept 결</p>
+						<div class="source_box">
+							<span class="date">1주일 전</span>
+							<span class="source"><span class="source_inner">정하</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="60ed18d414bf720dcc20a06b" data-da-position="true">
+					<a href="https://m.blog.naver.com/oizomichael/222414032555" class="theme_thumb" data-clk="tcc_lif.list4cont2" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20210713_144%2F1626151115215RXsTp_JPEG%2F2021-07-13_10%253B58%253B03.JPEG%22&amp;type&#x3D;nf340_228" alt="헤링본 마루의 내추럴한 매력" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://m.blog.naver.com/oizomichael/222414032555" class="theme_info" data-clk="tcc_lif.list4cont2" target="_blank">
+						<em class="theme_category"> 리빙</em>
+						<strong class="title elss">헤링본 마루의 내추럴한 매력</strong>
+						<p class="desc">안녕하세요. 광교 더 라움 인테리어입니다. 오늘은 짙은 월넛 톤 헤링본 마루로 매력적인 포인트를 완성한 분당 아름마을 건영 아파트 현장의 38평 인테리어를 소개해 드리려고 하는데요. 깔끔한 화이트 톤과 대조를 이루며 고즈넉한 분위기로 공간을 감싸주는, 볼수록 빠져드는 현장이 아닐까 생각합니다 :) 고즈넉함을 만끽할 38평 인테리어 분당 아름마을 건영 아파트</p>
+						<div class="source_box">
+							<span class="date">2주일 전</span>
+							<span class="source"><span class="source_inner">더라움 인테리어</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="60ed18d414bf720dcc20a06c" data-da-position="true">
+					<a href="https://m.blog.naver.com/weblank/222414295682" class="theme_thumb" data-clk="tcc_lif.list4cont3" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20210713_218%2F1626151091414YFctB_JPEG%2F2021-07-13_10%253B58%253B56.JPEG%22&amp;type&#x3D;nf340_228" alt="깔끔한 화이트에 오크 컬러" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://m.blog.naver.com/weblank/222414295682" class="theme_info" data-clk="tcc_lif.list4cont3" target="_blank">
+						<em class="theme_category"> 리빙</em>
+						<strong class="title elss">깔끔한 화이트에 오크 컬러</strong>
+						<p class="desc">안녕하세요. 블랭크스페이스입니다. 오랜만에 인사드리게 되었네요! 이번 프로젝트는 김포시 운양동에 위치한 한신더휴테라스 아파트 32평형입니다. 깔끔한 화이트 베이스에 오크 컬러 우드가 조화롭게 어우러진 현장으로 아늑하고 미니멀한 공간으로 연출되었답니다 :) L A Y O U T P E R S P E C T I V E C O M P L E T I O N P I</p>
+						<div class="source_box">
+							<span class="date">2주일 전</span>
+							<span class="source"><span class="source_inner">BLANK SPACE</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="60ed18d414bf720dcc20a06d" data-da-position="true">
+					<a href="https://m.blog.naver.com/homeliaison/222017024532" class="theme_thumb" data-clk="tcc_lif.list4cont4" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20210716_264%2F1626422461757c9rTl_JPEG%2F2021-07-16_17%253B00%253B15.JPEG%22&amp;type&#x3D;nf340_228" alt="생동감 있는 싱글 하우스" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://m.blog.naver.com/homeliaison/222017024532" class="theme_info" data-clk="tcc_lif.list4cont4" target="_blank">
+						<em class="theme_category"> 리빙</em>
+						<strong class="title elss">생동감 있는 싱글 하우스</strong>
+						<p class="desc">[Portfolio] Editor HomeLiaison Styling Kim Eun Seol 블랙앤화이트 모던한 홈스타일링, 성거 벽산 아파트 24평 홈스타일링 고객님은 남자 혼자 사시는 1인 가구셨어요. 고객님께서 이사 갈 집은 20년 이상 오래된 아파트로, 전체 리모델링이 필요한 곳이었죠. 고객님도 원하고 계셨구요. 선호하시는 인테리어 스타일은 블랙 앤</p>
+						<div class="source_box">
+							<span class="date">1년 전</span>
+							<span class="source"><span class="source_inner">홈리에종</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="60ef04269a5fb4945ce2ca09" data-da-position="true">
+					<a href="https://blog.naver.com/hd_livart/222423324673" class="theme_thumb" data-clk="tcc_lif.list4cont5" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fdthumb.phinf%2F%3Fsrc%3D%2522https%253A%252F%252Fs.pstatic.net%252Fshop.phinf%252F20210715_69%252F162627684412704Li0_JPEG%252F1.%2525BF%2525F9.jpg%2522%26type%3Df750_428%26service%3Dnavermain%22&amp;type&#x3D;nf340_228" alt="여름 맞이 욕실 꾸미기! 리바트바스 무료체험단 모집" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://blog.naver.com/hd_livart/222423324673" class="theme_info" data-clk="tcc_lif.list4cont5" target="_blank">
+						<em class="theme_category"> 리빙</em>
+						<strong class="title elss">여름 맞이 욕실 꾸미기! 리바트바스 무료체험단 모집</strong>
+						<p class="desc">2021 여름 맞이 욕실 꾸미기 리바트바스 패널욕실 무료체험단 모집 여러분의 사랑과 관심에 힘입어 돌아온 리바트바스 온라인 무료체험단! 400만원 상당의 욕실을 무료로 시공받고 정성 가득 후기를 남겨주실 분을 찾습니다~! (짝짝짝 ♪) 아직도.. 낡고 오래된 욕실을 그냥. 그대로. 참고. 사용하고 계신가요? 리모델링하려면 시간도 따로 내야하고.. 그럴 시간</p>
+						<div class="source_box">
+							<span class="date">1주일 전</span>
+							<span class="source"><span class="source_inner">현대리바트</span></span>
+						</div>
+					</a>
+				</li>
+			
+		</ul>
+	</div>
+</div>
+<div class="group_theme" data-block-id="" data-block-code="PC-THEME-LIVINGHOME-MOBILE-RANKING-DEFAULT-4" data-block-type="MATERIALS" data-template-code="MOBILE-RANKING-LIST"
+
+	 data-da="container"
+	 data-index=""
+     data-page="3"
+	 style="display:none">
+
+	<div class="list_theme_wrap">
+		<ul class="list_theme">
+			
+				<li class="theme_item" data-gdid="60f2cf1514bf720dcc21392f" data-da-position="true">
+					<a href="https://m.blog.naver.com/0jase/222416179088" class="theme_thumb" data-clk="tcc_lif.list5cont1" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20210715_99%2F1626331644755h378G_JPEG%2F2021-07-15_15%253B45%253B44.jpg%22&amp;type&#x3D;nf340_228" alt=" 예쁜 주방 인테리어 소품 " width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://m.blog.naver.com/0jase/222416179088" class="theme_info" data-clk="tcc_lif.list5cont1" target="_blank">
+						<em class="theme_category"> 리빙</em>
+						<strong class="title elss"> 예쁜 주방 인테리어 소품 </strong>
+						<p class="desc">예쁜주방 인테리어 소품 리뷰 주방용품 매트 행주 건조대 휴지통 집에서 보내는 시간이 많아지니까 자연스레 살림하면서 불편한 물건 또 필요한 주방용품들이 생기더라 그래서 이 주 전에는 주방 휴지통 그리고 이번 주는 주방 매트와 행주 건조대를 구입했다 (내돈내산) 사용해 보니 편하고 귀여워 예쁜 주방 인테리어소품 리뷰를 준비! 달력을 보니 벌써 이사 온 지 1년</p>
+						<div class="source_box">
+							<span class="date">2주일 전</span>
+							<span class="source"><span class="source_inner">꼼지락하이디</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="60eea22514bf720dcc20ef2b" data-da-position="true">
+					<a href="https://m.blog.naver.com/baby6630/222433522895" class="theme_thumb" data-clk="tcc_lif.list5cont2" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20210717_68%2F1626529005635zoBzW_JPEG%2F336_10.jpg%22&amp;type&#x3D;nf340_228" alt="아이스크림 이지캡 재활용하는 법 #살림꿀팁 " width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://m.blog.naver.com/baby6630/222433522895" class="theme_info" data-clk="tcc_lif.list5cont2" target="_blank">
+						<em class="theme_category"> 리빙</em>
+						<strong class="title elss">아이스크림 이지캡 재활용하는 법 #살림꿀팁 </strong>
+						<p class="desc">여름에 즐겨 먹는 설레임 아이스크림:) 하지만 스파우트(이지캡)부분은 비닐과 플라스틱이 붙어있는 복합재질이라 재활용이 되지 않아 일반쓰레기로 버리고 아래 비닐 부분만 잘라서 비닐쓰레기로 분리배출해야 한다고 해요. 그래서 오늘은 재활용이 되지 않는 스파우트(이지캡)를 활용하는 꿀팁과 설레임 용기를 활용하는 몇 가지 방법을 소개하려고 합니다. 다 먹은 용기는 </p>
+						<div class="source_box">
+							<span class="date">3일 전</span>
+							<span class="source"><span class="source_inner">핑크베베</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="60eea22514bf720dcc20ef2c" data-da-position="true">
+					<a href="https://m.blog.naver.com/tjsdbwls226/222416802213" class="theme_thumb" data-clk="tcc_lif.list5cont3" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20210717_36%2F1626529015101tDizG_JPEG%2F336_11.jpg%22&amp;type&#x3D;nf340_228" alt="집에서 할 수 있는 취미, 코바늘 네트백 만들기" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://m.blog.naver.com/tjsdbwls226/222416802213" class="theme_info" data-clk="tcc_lif.list5cont3" target="_blank">
+						<em class="theme_category"> 리빙</em>
+						<strong class="title elss">집에서 할 수 있는 취미, 코바늘 네트백 만들기</strong>
+						<p class="desc">집에서할수있는취미 코바늘뜨개질로 바게트백 디자인 네트백만들기 요즘 워낙 코바늘뜨개질 유행이라서 코바늘을 이용한 가방들이 많이 보이죠? 오늘은 요즘 유행하는 바게트백 디자인으로 만든 코바늘 네트백 만들기 함께해봐요 ! [재료 소개] 쎄비 브릭얀 534. 딥체리 (300g) 1볼 점보 코바늘 10mm, 단수링 요즘 또다시 코로나가 유행이라서 집에서할수있는취미 </p>
+						<div class="source_box">
+							<span class="date">2주일 전</span>
+							<span class="source"><span class="source_inner">선양</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="69806b50-fcf1-44ad-94d4-6990247656d8-31ef4627-24f6-4d4c-beed-33125b46c730" data-da-position="true">
+					<a href="https://m.blog.naver.com/ranaskitchen/222261684497" class="theme_thumb" data-clk="tcc_lif.list5cont4" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20210713_11%2F1626147707337pcnpj_JPEG%2F750_6.jpg%22&amp;type&#x3D;nf340_228" alt="푸드스타일리스트의 공간" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://m.blog.naver.com/ranaskitchen/222261684497" class="theme_info" data-clk="tcc_lif.list5cont4" target="_blank">
+						<em class="theme_category"> 리빙</em>
+						<strong class="title elss">푸드스타일리스트의 공간</strong>
+						<p class="desc">새로 이사한 집의 부엌편만 소개해 드리고 있는데 미국에 살고 계시는 저와 비슷한 상황이신 많은 이웃분들께서 댓글을 달아주시더라구요~ (반가웠어요♥) 오늘은 부엌의 타일 붙인 과정과 소소한 소품들로 완성한 부엌의 모습까지 보여드리려고 해요~! 타일 셀프 작업에 관한 자세한 포스팅은 예전에 한국 친정집 부엌에 작업할 때 상세히 포스팅을 올린 적이 있으니 아래 </p>
+						<div class="source_box">
+							<span class="date">4개월 전</span>
+							<span class="source"><span class="source_inner">Rana</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="ece38ea7-eeb1-4feb-bdc0-cb5fd4214bef-a5a53719-6f8c-43a7-9f8b-54a459c1f1e4" data-da-position="true">
+					<a href="https://m.post.naver.com/viewer/postView.naver?volumeNo&#x3D;31752405&amp;memberNo&#x3D;24659848" class="theme_thumb" data-clk="tcc_lif.list5cont5" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20210715_141%2F16262748991749g54G_JPEG%2F336_7.jpg%22&amp;type&#x3D;nf340_228" alt="외부 시선은 차단하고, 풍경을 담은 제주 단독주택 " width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://m.post.naver.com/viewer/postView.naver?volumeNo&#x3D;31752405&amp;memberNo&#x3D;24659848" class="theme_info" data-clk="tcc_lif.list5cont5" target="_blank">
+						<em class="theme_category"> 리빙</em>
+						<strong class="title elss">외부 시선은 차단하고, 풍경을 담은 제주 단독주택 </strong>
+						<p class="desc">주택 밀집 지역 안에서 건물 자체가 울타리 역할을 하도록 ‘ㅁ’ 자로 구성하고 중앙을 비워 하늘과 자연을 담았다. 그 위에 고전적인 박공 건물을 앉혀 시선을 사로잡는 형태로 완성했다. 디자인만큼 중요하게 계획한 건 자연과 가족의 삶이 어우러지는 공간 구성이다. 글 백홍기 기자 사진 반치옥 작가, 백홍기 기자 취재협조 아뜰리에11 건축사</p>
+						<div class="source_box">
+							<span class="date">1주일 전</span>
+							<span class="source"><span class="source_inner">전원주택라이프</span></span>
+						</div>
+					</a>
+				</li>
+			
+		</ul>
+	</div>
+</div>
+<div class="group_theme" data-block-id="" data-block-code="PC-THEME-LIVINGHOME-MOBILE-RANKING-DEFAULT-5" data-block-type="MATERIALS" data-template-code="MOBILE-RANKING-LIST"
+
+	 data-da="container"
+	 data-index=""
+     data-page="3"
+	 style="display:none">
+
+	<div class="list_theme_wrap">
+		<ul class="list_theme">
+			
+				<li class="theme_item" data-gdid="60ed1821b466010dc0de15ad" data-da-position="true">
+					<a href="https://m.blog.naver.com/lbmcompany87/222415532721" class="theme_thumb" data-clk="tcc_lif.list6cont1" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20210713_262%2F1626150911141NGltP_JPEG%2F2021-07-13_10%253B48%253B20.JPEG%22&amp;type&#x3D;nf340_228" alt="그림 같은 뷰, 호캉스를 집에서" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://m.blog.naver.com/lbmcompany87/222415532721" class="theme_info" data-clk="tcc_lif.list6cont1" target="_blank">
+						<em class="theme_category"> 리빙</em>
+						<strong class="title elss">그림 같은 뷰, 호캉스를 집에서</strong>
+						<p class="desc">해운대 아이파크는 부산의 멋진 뷰가 되어주는 동시에 세대마다 한폭의 그림같은 뷰를 가지고있습니다. 멀리서 보아도, 가까이서 보아도 아름다운 해운대 아이파크 아파트의 78평형 인테리어를 소개합니다 :) ∨ Description _ Haeundae I&#x27;PARK ∨ Area _ 258C㎡ / 78py ∨ Location _ Marine City, Busan ∨ </p>
+						<div class="source_box">
+							<span class="date">2주일 전</span>
+							<span class="source"><span class="source_inner">디자인문 인테리어</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="60ed1821b466010dc0de15ae" data-da-position="true">
+					<a href="https://m.blog.naver.com/designcomment/222389517316" class="theme_thumb" data-clk="tcc_lif.list6cont2" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20210713_70%2F1626150932159tumKA_JPEG%2F2021-07-13_10%253B50%253B13.JPEG%22&amp;type&#x3D;nf340_228" alt="아늑하고 포근한 감성 그대로" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://m.blog.naver.com/designcomment/222389517316" class="theme_info" data-clk="tcc_lif.list6cont2" target="_blank">
+						<em class="theme_category"> 리빙</em>
+						<strong class="title elss">아늑하고 포근한 감성 그대로</strong>
+						<p class="desc">공간이 가진 여유로움이란 그 안에 담긴 색채감, 그리고 디자인이 잘 표현되며 사용자의 휴식마저 완성도를 높여주는 모습이 아닐까 생각하는데요. 이 모든 건 저희 디자인 코멘트가 오늘 준비한 아늑함이 담긴 현장 망포 그대가 프리미어 40평 아파트 인테리어에서 확인하실 수 있습니다. 아늑하고 포근한 감성이 녹아들어있는 미니멀 인테리어를 경험하실 수 있으실 텐데요</p>
+						<div class="source_box">
+							<span class="date">1개월 전</span>
+							<span class="source"><span class="source_inner">디자인코멘트</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="60ed1821b466010dc0de15af" data-da-position="true">
+					<a href="https://m.blog.naver.com/andidesign/222092915365" class="theme_thumb" data-clk="tcc_lif.list6cont3" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20210713_113%2F1626150938596eKg9q_JPEG%2F2021-07-13_10%253B53%253B52.JPEG%22&amp;type&#x3D;nf340_228" alt="호수를 품은 깔끔한 우리 집" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://m.blog.naver.com/andidesign/222092915365" class="theme_info" data-clk="tcc_lif.list6cont3" target="_blank">
+						<em class="theme_category"> 리빙</em>
+						<strong class="title elss">호수를 품은 깔끔한 우리 집</strong>
+						<p class="desc">안녕하세요: ) 오랜만에 돌아온 포스팅입니다! 약 2주동안 너무 바쁜 하루하루를 보냈습니다. 새로운 프로젝트 시작과 마감 미팅작업 등 각자의 위치에서 열심히 노력해준 앤디식구들 박수짝짝! 오늘은 저번블로그 포스팅했던 광교 더샵레이크파크의 이사 후 이야기를 가지고 왔는데요~ 전 포스팅과 이사후의 모습을 함께 비교해서 봐주시면 너무 좋을것 같아요~ 또한 포인트</p>
+						<div class="source_box">
+							<span class="date">10개월 전</span>
+							<span class="source"><span class="source_inner">디자인앤디</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="60efffb335dd7e946fce9b1e" data-da-position="true">
+					<a href="https://m.blog.naver.com/yo_no/222406082383" class="theme_thumb" data-clk="tcc_lif.list6cont4" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20210716_20%2F1626444315094J0dPJ_JPEG%2F750_4.jpg%22&amp;type&#x3D;nf340_228" alt="우리 집 조명 이야기" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://m.blog.naver.com/yo_no/222406082383" class="theme_info" data-clk="tcc_lif.list6cont4" target="_blank">
+						<em class="theme_category"> 리빙</em>
+						<strong class="title elss">우리 집 조명 이야기</strong>
+						<p class="desc">저희 집엔 형광등이 없어요. 매립등과 스탠드등으로만 빛을 조절하고 있답니다. 낮에는 햇빛이 잘 들어 자연조명으로도 충분하고 밤에는 스탠드등을 이곳 저곳 켜두어요. 넘나리 예쁜 저희 집 조명들을 소개할게요. 거실에 있는 루이스폴센 판텔라 조명을 켜지 않아도 이 자체로도 참 예쁜 판텔라 조명이에요.😍 창을 통해서 봐도 은은하게 넘 예쁜... 거실과 이곳 저곳</p>
+						<div class="source_box">
+							<span class="date">3주일 전</span>
+							<span class="source"><span class="source_inner">유맹</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="60ee9fe39a5fb4945ce2c7f0" data-da-position="true">
+					<a href="https://m.blog.naver.com/join_kr/222357316760" class="theme_thumb" data-clk="tcc_lif.list6cont5" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20210715_46%2F1626348955677ebreD_JPEG%2F336_1.jpg%22&amp;type&#x3D;nf340_228" alt="하루가 다르게 쑥쑥, 반려식물 아보카도 키우기 " width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://m.blog.naver.com/join_kr/222357316760" class="theme_info" data-clk="tcc_lif.list6cont5" target="_blank">
+						<em class="theme_category"> 리빙</em>
+						<strong class="title elss">하루가 다르게 쑥쑥, 반려식물 아보카도 키우기 </strong>
+						<p class="desc">2월 15일 부터 씨앗 발아를 시작 했던 1호 아보카도!! 정성껏 돌봐서 그런가 정말 정이 가는 1호 아보카도 랍니다~~ ^^ 수형도 예뻐서 열매가 열리지 않더라도 그냥 관상용 나무로 키우기에도 괜찮은 것 같아요. 아보카도는 뿌리내리고 줄기 올리기 까지 기다림이 좀 필요하기는 하지만 한번 줄기를 올리니까 하루가 다르게 쑥~쑥 잘 자라서 키우는 재미 있답니다</p>
+						<div class="source_box">
+							<span class="date">1개월 전</span>
+							<span class="source"><span class="source_inner">Liz</span></span>
+						</div>
+					</a>
+				</li>
+			
+		</ul>
+	</div>
+</div>
+<div class="group_theme" data-block-id="" data-block-code="PC-THEME-LIVINGHOME-MOBILE-RANKING-DEFAULT-6" data-block-type="MATERIALS" data-template-code="MOBILE-RANKING-LIST"
+
+	 data-da="container"
+	 data-index=""
+     data-page="4"
+	 style="display:none">
+
+	<div class="list_theme_wrap">
+		<ul class="list_theme">
+			
+				<li class="theme_item" data-gdid="60ee9fe39a5fb4945ce2c7f1" data-da-position="true">
+					<a href="https://m.blog.naver.com/august6th_/222418210727" class="theme_thumb" data-clk="tcc_lif.list7cont1" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20210716_126%2F1626444164487Qp8RV_JPEG%2F336_12.jpg%22&amp;type&#x3D;nf340_228" alt="포장 배달도 다시 보자, 그동안 모아놓은 고무줄 활용법 " width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://m.blog.naver.com/august6th_/222418210727" class="theme_info" data-clk="tcc_lif.list7cont1" target="_blank">
+						<em class="theme_category"> 리빙</em>
+						<strong class="title elss">포장 배달도 다시 보자, 그동안 모아놓은 고무줄 활용법 </strong>
+						<p class="desc">미니멀라이프 minimal life 배달음식을 시키거나 포장을 하면 쉽게 마주치는 고무줄 있으면 딱히 쓸데가 없고 없으면 아쉬운 게 고무줄이라서 배달음식이나 각종 포장에서 보이면 버리지 않고 챙겨둔다 (고무줄 수납통은 다 쓴 수분크림 공병이다) 배달음식 시켜 먹던 시절 모아둔 고무줄만 이만큼 그동안 얼마나 배달을 시켜 먹은 거냐 나란 녀석 포장, 배달로 모</p>
+						<div class="source_box">
+							<span class="date">1주일 전</span>
+							<span class="source"><span class="source_inner">팔월</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="e62af6d1-6f5b-4960-be4c-8c35f8dd6884-a74b6faf-7e40-4748-866e-2b8f1fb00413" data-da-position="true">
+					<a href="https://m.blog.naver.com/sue9823/222417447405" class="theme_thumb" data-clk="tcc_lif.list7cont2" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20210706_23%2F1625555562057A9KMJ_JPEG%2F750_1.jpg%22&amp;type&#x3D;nf340_228" alt="집에 진심인 편입니다 " width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://m.blog.naver.com/sue9823/222417447405" class="theme_info" data-clk="tcc_lif.list7cont2" target="_blank">
+						<em class="theme_category"> 리빙</em>
+						<strong class="title elss">집에 진심인 편입니다 </strong>
+						<p class="desc">고도 성장에 휩쓸리지 않고, 안이한 자기 과시욕에 구애되지 않고, 실질적이면서도 시대에 좌우되지 않는 아름다움을 지닌, 사용하기 편리한 집을 갖고 싶다. 결혼후 6번의 이사를 했어요. 큰집도 있었고 작은 집도 있었고 내집도 있었고 전세집도 있었고 신축도 있었고 구축도 있었지요. 집은 다 달랐지만 늘 집에 정성을 쏟으며 살았던 것 같아요. 회사생활을 하거나 </p>
+						<div class="source_box">
+							<span class="date">2주일 전</span>
+							<span class="source"><span class="source_inner">다정한브루니</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="2d742a62-a09d-4826-8e8d-f4a977ff4ad5-675af34d-76a5-4dba-bc58-1e6b3114fc29" data-da-position="true">
+					<a href="https://m.post.naver.com/viewer/postView.naver?memberNo&#x3D;954004&amp;volumeNo&#x3D;31932001" class="theme_thumb" data-clk="tcc_lif.list7cont3" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20210713_32%2F1626159180447BwzVR_JPEG%2F336_5.jpg%22&amp;type&#x3D;nf340_228" alt="은퇴 후 일상에 대한 고민, 부부의 집 짓기 #전원주택" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://m.post.naver.com/viewer/postView.naver?memberNo&#x3D;954004&amp;volumeNo&#x3D;31932001" class="theme_info" data-clk="tcc_lif.list7cont3" target="_blank">
+						<em class="theme_category"> 리빙</em>
+						<strong class="title elss">은퇴 후 일상에 대한 고민, 부부의 집 짓기 #전원주택</strong>
+						<p class="desc">은퇴 후의 삶을 위해 자연을 찾아 온 전원주택. 든든한 스틸하우스에 단열, 그리고 부부가 모시는 고령의 아버님에 대한 작은 배려 또한 함께 담아 지었다. SECTION ① 현관 ② 거실 ③ 식당 ④ 주방 ⑤ 안방 ⑥ 손님방 ⑦ 아버님방 ⑧ 욕실 ⑨ 드레스룸 ⑩ 복도 ⑪ 홀 ⑫ 다용도실 ⑬ 보일러실 ⑭ 공방 ⑮ 창고 은퇴 후의 삶을 보통 ‘여생을 보낸다’고 </p>
+						<div class="source_box">
+							<span class="date">1주일 전</span>
+							<span class="source"><span class="source_inner">월간 전원속의 내집</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="ddbad57a-e701-4351-971b-a0013051e489-d572228d-3dd7-452d-a36c-9ad0e8099bca" data-da-position="true">
+					<a href="https://m.blog.naver.com/hk101101/222428223889" class="theme_thumb" data-clk="tcc_lif.list7cont4" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20210713_112%2F16261456880370S1YW_JPEG%2F336_1.jpg%22&amp;type&#x3D;nf340_228" alt="우리 집에는 맥시멀리스트가 살아요 #홈오피스 #키덜트" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://m.blog.naver.com/hk101101/222428223889" class="theme_info" data-clk="tcc_lif.list7cont4" target="_blank">
+						<em class="theme_category"> 리빙</em>
+						<strong class="title elss">우리 집에는 맥시멀리스트가 살아요 #홈오피스 #키덜트</strong>
+						<p class="desc">드디어 큰맘먹고 공개하는 오빠의 홈오피스&amp;취미방 온라인집들이:) 저번부터 해야지 하면서도 자꾸 미루게 된 이유는 우리집 유일한 맥시멀리스트인 오빠가 본인방이 아직 완성이 안되었으니 완성되고 온라인집들이를 하라는 간곡한 부탁으로 미뤄왔으나! 계속 미루다 내년에 할거같아서 그냥올리는 내맘대로 집들이:) 오빠 인생에 기회는 한번이 아니야~또 하면 되잖아 그치..</p>
+						<div class="source_box">
+							<span class="date">1주일 전</span>
+							<span class="source"><span class="source_inner">이모찌씨</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="60ed1750f93250946492b4d1" data-da-position="true">
+					<a href="https://m.blog.naver.com/arlockdesign/222415847988" class="theme_thumb" data-clk="tcc_lif.list7cont5" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20210713_291%2F1626150613574ChKoG_JPEG%2F2021-07-13_10%253B41%253B39.JPEG%22&amp;type&#x3D;nf340_228" alt="라운지 카페처럼 포근한 침실" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://m.blog.naver.com/arlockdesign/222415847988" class="theme_info" data-clk="tcc_lif.list7cont5" target="_blank">
+						<em class="theme_category"> 리빙</em>
+						<strong class="title elss">라운지 카페처럼 포근한 침실</strong>
+						<p class="desc">단아함과 따뜻한 온기로 가득 채운 공사정보 위치 : 화성시 동탄파라곤Ⅱ 주거형태 : 주상복합 가족구성 : 신혼 부부 벽면 : 도배마감 바닥 : 포세린타일 조명공사 : 전체 LED매입등시공 / 라인조명 주방가구, 붙박이장, 수납장, 화장대 : 알록제작 공사기간 : 5주 좁은 현관 긴복도의 답답한 동선을 고려하여 중문을 제외하고 정면 우드 포인트 도어로 시각적</p>
+						<div class="source_box">
+							<span class="date">2주일 전</span>
+							<span class="source"><span class="source_inner">디자인스튜디오알록</span></span>
+						</div>
+					</a>
+				</li>
+			
+		</ul>
+	</div>
+</div>
+<div class="group_theme" data-block-id="" data-block-code="PC-THEME-LIVINGHOME-MOBILE-RANKING-DEFAULT-7" data-block-type="MATERIALS" data-template-code="MOBILE-RANKING-LIST"
+
+	 data-da="container"
+	 data-index=""
+     data-page="4"
+	 style="display:none">
+
+	<div class="list_theme_wrap">
+		<ul class="list_theme">
+			
+				<li class="theme_item" data-gdid="60ed1750f93250946492b4d2" data-da-position="true">
+					<a href="https://m.blog.naver.com/art-0217/222402255814" class="theme_thumb" data-clk="tcc_lif.list8cont1" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20210713_259%2F1626150786988o6Ohp_JPEG%2F2021-07-13_10%253B43%253B15.JPEG%22&amp;type&#x3D;nf340_228" alt="마음의 안정을 주는 베이지 톤" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://m.blog.naver.com/art-0217/222402255814" class="theme_info" data-clk="tcc_lif.list8cont1" target="_blank">
+						<em class="theme_category"> 리빙</em>
+						<strong class="title elss">마음의 안정을 주는 베이지 톤</strong>
+						<p class="desc">마음의 안정을 주는 베이지톤 인테리어 _ 마석역신도브래뉴 인테리어 안녕하세요. 인테리어 회사 장식가입니다 :) 오늘 소개할 남양주 마석역신도브래뉴 50평대 아파트 인테리어는 화이트와 함께 내추럴한 느낌의 베이지와 그레이 컬러를 적절히 조합하여 부드러우면서도 편안한 느낌이 들도록 디자인하였습니다. 그리고 심플한 느낌의 공간에는 자연스러운 포인트 요소들을 가미</p>
+						<div class="source_box">
+							<span class="date">1개월 전</span>
+							<span class="source"><span class="source_inner">장식가</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="60ed1750f93250946492b4d3" data-da-position="true">
+					<a href="https://m.blog.naver.com/jk17sd/222414217568" class="theme_thumb" data-clk="tcc_lif.list8cont2" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20210713_251%2F1626152311716xFMrA_JPEG%2F2021-07-13_10%253B44%253B46.JPEG%22&amp;type&#x3D;nf340_228" alt="아늑한 매력, 미니멀 인테리어" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://m.blog.naver.com/jk17sd/222414217568" class="theme_info" data-clk="tcc_lif.list8cont2" target="_blank">
+						<em class="theme_category"> 리빙</em>
+						<strong class="title elss">아늑한 매력, 미니멀 인테리어</strong>
+						<p class="desc">안녕하세요. 제이 플레이스 인사드립니다 :D 깔끔하고 따뜻한 화이트 우드 디자인의 거주 공간 어떠신가요? 바로 오늘 준비한 철산주공 12단지 현장의 미니멀 인테리어 모습인데요. 시각적 확장감을 살린 21평 아파트 인테리어 현장으로 소박하면서도 아늑한 매력을 보여드릴 수 있는 현장이 아닐까 생각합니다! 위치 : 광명시 철산동 주공 12단지 평수 / 면적 : </p>
+						<div class="source_box">
+							<span class="date">2주일 전</span>
+							<span class="source"><span class="source_inner">제이플레이스</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="60eea1b79a5fb4945ce2c80d" data-da-position="true">
+					<a href="https://m.blog.naver.com/casamain/222428111683" class="theme_thumb" data-clk="tcc_lif.list8cont3" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20210715_137%2F1626351389612GEDwE_JPEG%2F750_3.jpg%22&amp;type&#x3D;nf340_228" alt="무채색 생활용품" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://m.blog.naver.com/casamain/222428111683" class="theme_info" data-clk="tcc_lif.list8cont3" target="_blank">
+						<em class="theme_category"> 리빙</em>
+						<strong class="title elss">무채색 생활용품</strong>
+						<p class="desc">인테리어를 꾸밀 때 뭔가 막연하게 어렵거나 어떻게 해야할지 방법을 잘 모르겠다면 집안의 벽체와 가구, 소품 등의 컬러를 일관성있게 맞춰주면 실패를 줄일 수 있는 가장 쉬운 방법 중의 하나인 것 같아요. 컬러를 몇 가지로 한정해주면 정해진 컬러 안에서 물건을 고르면 되니 고민이 줄어들어서 사기도 쉽고 비슷한 색끼리 모이면 서로 조화를 이루기 때문에 튀는 부분</p>
+						<div class="source_box">
+							<span class="date">1주일 전</span>
+							<span class="source"><span class="source_inner">까사 더메인</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="60eea1b79a5fb4945ce2c80e" data-da-position="true">
+					<a href="https://m.blog.naver.com/yeonhuiya/222406396495" class="theme_thumb" data-clk="tcc_lif.list8cont4" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20210715_40%2F1626337613205rlmwC_JPEG%2F2021-07-15_17%253B18%253B41.jpg%22&amp;type&#x3D;nf340_228" alt="세제통, 샴푸통 물때 방지하는 꿀팁" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://m.blog.naver.com/yeonhuiya/222406396495" class="theme_info" data-clk="tcc_lif.list8cont4" target="_blank">
+						<em class="theme_category"> 리빙</em>
+						<strong class="title elss">세제통, 샴푸통 물때 방지하는 꿀팁</strong>
+						<p class="desc">세제통 샴푸통 물때 방지 살림꿀팁 외출하고 돌아오면 손 씻기는 필수 ! 그렇다보니 화장실 세면대 위에 놓여진 손세정제를 자주 사용 할 수 밖에 없어요. 아무래도 물을 사용하는 곳이다보니 세정제 주변에 계속 물이 고여있게 되더라구요. 이렇게 손세정제 주변에 계속해서 물이 고여있게 되면 결국엔 세제통 물때의 원인이 될 수 밖에 없기에 자주자주 닦아줘야만 한답니</p>
+						<div class="source_box">
+							<span class="date">3주일 전</span>
+							<span class="source"><span class="source_inner">연휘v</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="60eea1b79a5fb4945ce2c80f" data-da-position="true">
+					<a href="https://m.blog.naver.com/handsome_byyul/222415873664" class="theme_thumb" data-clk="tcc_lif.list8cont5" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20210714_296%2F1626251700079w82lA_JPEG%2F2021-07-14_16%253B57%253B28.jpg%22&amp;type&#x3D;nf340_228" alt="알록달록 이니셜 비즈로 귀여운 키링 만들기" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://m.blog.naver.com/handsome_byyul/222415873664" class="theme_info" data-clk="tcc_lif.list8cont5" target="_blank">
+						<em class="theme_category"> 리빙</em>
+						<strong class="title elss">알록달록 이니셜 비즈로 귀여운 키링 만들기</strong>
+						<p class="desc">이니셜 비즈를 이용해서 만드는 하나뿐인 비즈 키링만들기 과정을 가져왔어요 이번에 준비한 건 부자재를 이용한 비즈 키링만들기인데요 부자재 구매가 어렵고 도구가 없는 분들을 위해서 다음 포스팅은 부자재 없이 비즈 키링만들기 과정을 가져올게요- 그럼 이제 만들기 시작할게요 준비물 ○ 3mm 유광 비즈 저는 무지개색으로 키링을 만들거라 다양하게 준비했어요 구상한 </p>
+						<div class="source_box">
+							<span class="date">2주일 전</span>
+							<span class="source"><span class="source_inner">만들기좋아하는금손이</span></span>
+						</div>
+					</a>
+				</li>
+			
+		</ul>
+	</div>
+</div>
+<div class="group_theme" data-block-id="" data-block-code="PC-THEME-LIVINGHOME-MOBILE-RANKING-DEFAULT-8" data-block-type="MATERIALS" data-template-code="MOBILE-RANKING-LIST"
+
+	 data-da="container"
+	 data-index=""
+     data-page="5"
+	 style="display:none">
+
+	<div class="list_theme_wrap">
+		<ul class="list_theme">
+			
+				<li class="theme_item" data-gdid="d713bc73-cb0b-4617-8c00-576ca79a3489-0242ca98-46d0-415d-800b-36d0142969a5" data-da-position="true">
+					<a href="https://m.blog.naver.com/daeun2211/222416148320" class="theme_thumb" data-clk="tcc_lif.list9cont1" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20210712_180%2F1626096684544oyQIz_JPEG%2F750_2.jpg%22&amp;type&#x3D;nf340_228" alt="유행타지 않는 스타일링" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://m.blog.naver.com/daeun2211/222416148320" class="theme_info" data-clk="tcc_lif.list9cont1" target="_blank">
+						<em class="theme_category"> 리빙</em>
+						<strong class="title elss">유행타지 않는 스타일링</strong>
+						<p class="desc">안녕하세요 이웃여러분 이번 저희집의 컨셉은 따뜻하면서 포근한, 깔끔한 컨셉으로 오래 살 집인 만큼 유행타지 않는, 질리지 않는 우드+화이트로 결정!!! 과연 어떻게 바꼈을지~ 한껏 기대해주시면서 한번 보실까요?? 테라조 바닥타일 + 딥그린 중문으로 멋낸 현관!! 딥그린으로 현관 필름작업과 중문을 깔맞춤하여 포인트를 주었어요^^ 들어오자마자 딥그린 중문이 확</p>
+						<div class="source_box">
+							<span class="date">2주일 전</span>
+							<span class="source"><span class="source_inner">사랑스런토실이</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="64b2cbaa-4e2c-4dfc-b1b4-ac333bd6fdd5-44cb6a08-b264-464c-9f8c-d73dda5c0f49" data-da-position="true">
+					<a href="https://m.blog.naver.com/lobin1129/222422388297" class="theme_thumb" data-clk="tcc_lif.list9cont2" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20210709_15%2F1625834210006m1oHf_JPEG%2F336_2.jpg%22&amp;type&#x3D;nf340_228" alt="낡고 오래된 공간의 변신, 단독주택 아웃테리어  " width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://m.blog.naver.com/lobin1129/222422388297" class="theme_info" data-clk="tcc_lif.list9cont2" target="_blank">
+						<em class="theme_category"> 리빙</em>
+						<strong class="title elss">낡고 오래된 공간의 변신, 단독주택 아웃테리어  </strong>
+						<p class="desc">안녕하세요 오늘은 오랫만에 셀프인테리어 소식으로 인사드려요 유월이면 늘 빨간장미덩쿨로 뒤덮혔던 오래된 창이 있던 안방외부 공간이예요 But 처음엔 몰랐었는데 덩쿨식물을 키워보니요 ㆍㆍㆍ 쥔장이 부지런하지않으면 져버린 잎들이나 벌레흔적들로인해 생각보다 벽이 지저분하게되어버리는 ... 고민끝에 담쟁이덩쿨은 모두 제거하고 장미는 아치로 유인해주기로했답니다 ...</p>
+						<div class="source_box">
+							<span class="date">1주일 전</span>
+							<span class="source"><span class="source_inner">재주많은 원숭이</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="cf8f6164-4053-4db9-a1b4-f73c337b9534-53adcdc1-59be-4f2a-8d0b-c1e04d167d38" data-da-position="true">
+					<a href="https://m.blog.naver.com/living_food/222428946721" class="theme_thumb" data-clk="tcc_lif.list9cont3" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20210713_143%2F1626102664086L0W8Q_JPEG%2F336_5.jpg%22&amp;type&#x3D;nf340_228" alt="사용자조사 참여하시면 네이버 페이를 드립니다" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://m.blog.naver.com/living_food/222428946721" class="theme_info" data-clk="tcc_lif.list9cont3" target="_blank">
+						<em class="theme_category"> 리빙</em>
+						<strong class="title elss">사용자조사 참여하시면 네이버 페이를 드립니다</strong>
+						<p class="desc">생활과 공간을 바꾸는 리빙 제안 사용자 여러분과 함께 만들어가는 네이버 리빙이 지난 달 새로운 모습으로 인사드렸습니다. 그동안 전해주신 의견들을 하나하나 검토하고 반영하여 개편을 진행하였는데요. 리빙판의 변화가 어떠하셨는지, 앞으로 더 채워가야할 것들은 무엇인지 한번 더 소중한 말씀을 듣고자 사용자 조사를 진행합니다. 전해주시는 말씀 새겨 들으며, 앞으로도</p>
+						<div class="source_box">
+							<span class="date">6일 전</span>
+							<span class="source"><span class="source_inner">리빙N레시피</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="60ed16359a5fb4945ce27abd" data-da-position="true">
+					<a href="https://m.blog.naver.com/sinorami3/222392837162" class="theme_thumb" data-clk="tcc_lif.list9cont4" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20210713_156%2F1626150513051gSAd5_JPEG%2F2021-07-13_10%253B33%253B30.JPEG%22&amp;type&#x3D;nf340_228" alt="무몰딩 히든 도어의 세련미" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://m.blog.naver.com/sinorami3/222392837162" class="theme_info" data-clk="tcc_lif.list9cont4" target="_blank">
+						<em class="theme_category"> 리빙</em>
+						<strong class="title elss">무몰딩 히든 도어의 세련미</strong>
+						<p class="desc">간결하면서도 고급스러운 홈 디자인은 넓고 열린 공간에서 더욱 눈에 띄는 변화를 크게 만들어줄 수 있습니다. 오늘 여러분들에게 소개할 성복 힐스테이트 2차의 경우 50평대 아파트 인테리어 현장으로 공간을 구성하는 레이아웃은 물론, 다채로운 분위기의 조명과 공간을 복잡하게 하거나 어지럽히지 않고 순식간에 흰색 장식을 변화시켜주는 무몰딩 히든도어를 바탕으로 연출</p>
+						<div class="source_box">
+							<span class="date">1개월 전</span>
+							<span class="source"><span class="source_inner">bk디자인</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="60ed16359a5fb4945ce27abe" data-da-position="true">
+					<a href="https://m.blog.naver.com/howto-design/222103388857" class="theme_thumb" data-clk="tcc_lif.list9cont5" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20210713_121%2F1626150442909saa0w_JPEG%2F2021-07-13_10%253B37%253B29.JPEG%22&amp;type&#x3D;nf340_228" alt="화사한 분위기의 블랙 주방" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://m.blog.naver.com/howto-design/222103388857" class="theme_info" data-clk="tcc_lif.list9cont5" target="_blank">
+						<em class="theme_category"> 리빙</em>
+						<strong class="title elss">화사한 분위기의 블랙 주방</strong>
+						<p class="desc">■ PROJECT: 서울 관악구 신림동 삼성산 주공아파트 ■ LOCATION: 서울시 관악구 호암로 399 ■ AREA: 44평형/ 146m² ■ MEMBERS: 신혼부부 안녕하세요. 하우투디자인입니다:) 바쁜 일상에서 벗어나 여유로운 일상을 가질 수 있는 공간을 가진다는 건 굉장히 매력적이고 행복한 일이지요. 오늘은 깔끔하고 세련된 연출로 편안한 휴식을 </p>
+						<div class="source_box">
+							<span class="date">9개월 전</span>
+							<span class="source"><span class="source_inner">하우투디자인</span></span>
+						</div>
+					</a>
+				</li>
+			
+		</ul>
+	</div>
+</div>
+<div class="group_theme" data-block-id="" data-block-code="PC-THEME-LIVINGHOME-MOBILE-RANKING-DEFAULT-9" data-block-type="MATERIALS" data-template-code="MOBILE-RANKING-LIST"
+
+	 data-da="container"
+	 data-index=""
+     data-page="5"
+	 style="display:none">
+
+	<div class="list_theme_wrap">
+		<ul class="list_theme">
+			
+				<li class="theme_item" data-gdid="60e3f52766f7deb398072f72" data-da-position="true">
+					<a href="https://blog.naver.com/mrslou/222420667361" class="theme_thumb" data-clk="tcc_lif.list10cont1" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fdthumb.phinf%2F%3Fsrc%3D%2522https%253A%252F%252Fs.pstatic.net%252Fshop.phinf%252F20210706_184%252F1625552067734zSwvn_JPEG%252F1.%2525BF%2525F9.jpg%2522%26type%3Df750_428%26service%3Dnavermain%22&amp;type&#x3D;nf340_228" alt="슬로우 토퍼 베이직 with 썸머브리즈 커버 체험단 모집" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://blog.naver.com/mrslou/222420667361" class="theme_info" data-clk="tcc_lif.list10cont1" target="_blank">
+						<em class="theme_category"> 리빙</em>
+						<strong class="title elss">슬로우 토퍼 베이직 with 썸머브리즈 커버 체험단 모집</strong>
+						<p class="desc">우리 집 침대로 떠나는 여름 홈캉스⛱️ 이번 여름은 집에서 여유로운 시간을 즐기는 홈캉스로 계획하신 분들이 많으실텐데요. 습한 날씨에 지치는 요즘 슬로우와 함께 쾌적하고 포근한 단잠 여행 어떠세요? 여름 휴가 시즌을 맞이해 시원한 홈캉스를 즐기시길 바라는 마음으로 수면 전문 브랜드 슬로우가 체험단 이벤트를 준비했습니다. 포근한 슬로우 토퍼 매트리스 베이직에</p>
+						<div class="source_box">
+							<span class="date">2주일 전</span>
+							<span class="source"><span class="source_inner">슬로우</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="60e7e0a3af0d01508d7e5925" data-da-position="true">
+					<a href="https://m.blog.naver.com/litty28/222430384923" class="theme_thumb" data-clk="tcc_lif.list10cont2" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20210714_234%2F16262735635590Hovn_JPEG%2F750_2.jpg%22&amp;type&#x3D;nf340_228" alt="히메 몬스테라 키우기 " width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://m.blog.naver.com/litty28/222430384923" class="theme_info" data-clk="tcc_lif.list10cont2" target="_blank">
+						<em class="theme_category"> 리빙</em>
+						<strong class="title elss">히메 몬스테라 키우기 </strong>
+						<p class="desc">플견우네에요. 저희집은 초록이가 많지만, 사실 들이는걸 좋아하는 것일 뿐... ... 잘 유지 하기 힘들더라고요. 처음 아무것도 모르고 플랜테리어를 무시했다가 이쁘기만한 식물들을 데리고 오고서는 관리못해 떠나보내고 빈화분이 아직도 한 두개가 아니랍니다. 그런 저에게도 히메 몬스테라는 정말 초보자에게도 일명 식물 똥손들에게도 예쁘게 잘자라고 계속 덩굴? 처럼</p>
+						<div class="source_box">
+							<span class="date">5일 전</span>
+							<span class="source"><span class="source_inner">견우네</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="60e564009effd1b39f46e43f" data-da-position="true">
+					<a href="https://m.blog.naver.com/barbie2942/222286115024" class="theme_thumb" data-clk="tcc_lif.list10cont3" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20210714_16%2F162627371429651AI6_JPEG%2F336_3.jpg%22&amp;type&#x3D;nf340_228" alt="친환경 살림, 소프넛 열매로 만든 천연 세제 " width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://m.blog.naver.com/barbie2942/222286115024" class="theme_info" data-clk="tcc_lif.list10cont3" target="_blank">
+						<em class="theme_category"> 리빙</em>
+						<strong class="title elss">친환경 살림, 소프넛 열매로 만든 천연 세제 </strong>
+						<p class="desc">아이를 낳고 미니멀라이프를 추구 하면서 환경과 건강에 대해 더 많은 관심을 갖게 되었어요. 환경을 위하는 작은 습관들이 결국 우리의 몸에도 이로운 것이라는 너무도 당연한 깨달음을 얻었고 하나씩 바꿔 나가는 중이랍니다. 가장 먼저 주방에서 쓰는 액체세제를 설거지 비누로 바꿨고 아크릴 수세미 대신 천연(루파)수세미를 사용하고 있어요. 최근에 인스타에서 친분을 </p>
+						<div class="source_box">
+							<span class="date">3개월 전</span>
+							<span class="source"><span class="source_inner">왕사탕이</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="60e7e0a3af0d01508d7e5926" data-da-position="true">
+					<a href="https://m.blog.naver.com/tkddlduddnjs/222416423093" class="theme_thumb" data-clk="tcc_lif.list10cont4" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20210714_39%2F1626273722714D3Bgt_JPEG%2F336_2.jpg%22&amp;type&#x3D;nf340_228" alt="빵순이 필수템, 귀여운 디자인 스프레더 모음" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://m.blog.naver.com/tkddlduddnjs/222416423093" class="theme_info" data-clk="tcc_lif.list10cont4" target="_blank">
+						<em class="theme_category"> 리빙</em>
+						<strong class="title elss">빵순이 필수템, 귀여운 디자인 스프레더 모음</strong>
+						<p class="desc">아침 식사로 무조건 빵을 먹기에 집에 잼, 크림치즈도 항상 구비해둔다 그래서 스프레더가 필수인 우리집 신혼때는 대충 사서 썼는데 코로나 및 재택근무로 집에 있는 시간이 많다보니까 조금 더 신경써서 먹고 싶어서... 하나 둘씩 구매하기 시작한게... 진심이되어... 수집 (수집가라고 말하기는 좀 민망하지만, 제 수준에서는 꽤 많이 모은 아이들!) 다 똑같아 </p>
+						<div class="source_box">
+							<span class="date">2주일 전</span>
+							<span class="source"><span class="source_inner">Zumir</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="b9c79cf6-06f6-4cbb-9245-0bab349965fc-0a98be2d-f920-4e98-9b7b-6a9fedcd6afb" data-da-position="true">
+					<a href="https://m.blog.naver.com/chanchan2nd/222420517197" class="theme_thumb" data-clk="tcc_lif.list10cont5" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20210705_33%2F1625473551711Hrnvy_JPEG%2F750_4.jpg%22&amp;type&#x3D;nf340_228" alt="TV 없는 거실" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://m.blog.naver.com/chanchan2nd/222420517197" class="theme_info" data-clk="tcc_lif.list10cont5" target="_blank">
+						<em class="theme_category"> 리빙</em>
+						<strong class="title elss">TV 없는 거실</strong>
+						<p class="desc">코로나 이후 인테리어 업체들이 예약이 안될 정도로 바쁘다죠? 집에 있는 시간이 길어진만큼 안락한 집에 대한 니즈도 굉장히 커진듯 해요. 고칠 것 없는 집이지만, 집에 오래 있다보니 전에는 보이지 않던 점들도 보이고 리프레쉬 차원으로 인테리어 욕구가 피어나더라구요. ㅎㅎㅎ 그 중에서도 가장 큰 욕심(?)은 조명이었어요. 매립등과 메인등이 있는 거실이었지만, </p>
+						<div class="source_box">
+							<span class="date">2주일 전</span>
+							<span class="source"><span class="source_inner">chan</span></span>
+						</div>
+					</a>
+				</li>
+			
+		</ul>
+	</div>
+</div>
+<div class="group_theme" data-block-id="" data-block-code="PC-THEME-LIVINGHOME-MOBILE-RANKING-DEFAULT-10" data-block-type="MATERIALS" data-template-code="MOBILE-RANKING-LIST"
+
+	 data-da="container"
+	 data-index=""
+     data-page="6"
+	 style="display:none">
+
+	<div class="list_theme_wrap">
+		<ul class="list_theme">
+			
+				<li class="theme_item" data-gdid="78bf255b-2ab6-4d6f-947b-547cd184d737-178bdadb-6e3c-4622-b7a6-91ad453bea6a" data-da-position="true">
+					<a href="https://m.blog.naver.com/barara715/222316553632" class="theme_thumb" data-clk="tcc_lif.list11cont1" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20210705_189%2F1625481123058DP2Rk_JPEG%2F336_4.jpg%22&amp;type&#x3D;nf340_228" alt="전원주택, 따뜻한 느낌으로 화장실 &amp; 욕실 만들기 " width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://m.blog.naver.com/barara715/222316553632" class="theme_info" data-clk="tcc_lif.list11cont1" target="_blank">
+						<em class="theme_category"> 리빙</em>
+						<strong class="title elss">전원주택, 따뜻한 느낌으로 화장실 & 욕실 만들기 </strong>
+						<p class="desc">#흔연재 #화장실인테리어 #욕실인테리어 #전원주택인테리어 #단독주택인테리어 #탑볼세면대 #건식화장실 #타일욕조 #온라인집들이 #렌선집들이 #미니멀인테리어 #리빙잇템 집을 짓는 과정 중 화장실&amp;욕실 타일을 골라야 할 때, 정석처럼 윤현상재가 떠올라 이 곳에 방문했다. 정말 다양한 질감과 사이즈, 생산 국가마다 또 다른 느낌. 가격도 천차만별. 윤현상재 처음 </p>
+						<div class="source_box">
+							<span class="date">2개월 전</span>
+							<span class="source"><span class="source_inner">젠틀라이프</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="33036c17-8d66-463c-bc1e-f6e71a0e54ad-d4c56403-ff07-4ad3-bb55-959e5b370815" data-da-position="true">
+					<a href="https://m.blog.naver.com/hhjin3023/222407719746" class="theme_thumb" data-clk="tcc_lif.list11cont2" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20210708_79%2F1625751405286sF64T_JPEG%2F336_4.jpg%22&amp;type&#x3D;nf340_228" alt="아일랜드 식탁이 있는 주방, 머무는 시간이 늘어났어요 " width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://m.blog.naver.com/hhjin3023/222407719746" class="theme_info" data-clk="tcc_lif.list11cont2" target="_blank">
+						<em class="theme_category"> 리빙</em>
+						<strong class="title elss">아일랜드 식탁이 있는 주방, 머무는 시간이 늘어났어요 </strong>
+						<p class="desc">아일랜드식탁이 있는 우리집 주방인테리어 아일랜드식탁 3개월 사용후기 #주방인테리어 #아일랜드식탁 #식탁 #온라인집들이 #랜선집들이 오랜만에 보여드리는 저희집 주방의 모습입니다 사실 이 모습은 무려 3월달의 모습 ㅋㅋ 핑크색 벽이 새삼 또 예뻐보이는건 뭐죠? 저희집 주방은 냉장고자리가 다용도실에 있고 식탁자리가 딱 4인용 식탁을 놓게 되어있는 구조인데요 주방</p>
+						<div class="source_box">
+							<span class="date">3주일 전</span>
+							<span class="source"><span class="source_inner">행복해진</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="60ed15b414bf720dcc209fd3" data-da-position="true">
+					<a href="https://m.blog.naver.com/arte_blog/222406794733" class="theme_thumb" data-clk="tcc_lif.list11cont3" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20210713_145%2F1626150157505D12vy_JPEG%2F2021-07-13_10%253B07%253B07.JPEG%22&amp;type&#x3D;nf340_228" alt="매력적인 빈티지 스타일" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://m.blog.naver.com/arte_blog/222406794733" class="theme_info" data-clk="tcc_lif.list11cont3" target="_blank">
+						<em class="theme_category"> 리빙</em>
+						<strong class="title elss">매력적인 빈티지 스타일</strong>
+						<p class="desc">독특하고 세련된 현대 장식과 시간의 흐름을 매력적이게 표현한 빈티지 인테리어 스타일이 함께 어울린 현장이 있습니다. 오늘 여러분들과 새롭게 만나볼 동탄 대방 디엠 시티 20평대 아파트 인테리어 현장인데요. 사용자의 취향과 라이프 스타일을 능숙하게 시각화 한 매혹적인 빈티지 스타일이 궁금하시다면 오늘의 시공 사례에 잠시 주목해 주시기 바라며, 지금부터 매력적</p>
+						<div class="source_box">
+							<span class="date">3주일 전</span>
+							<span class="source"><span class="source_inner">아르떼 디자인</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="60ed15b414bf720dcc209fd4" data-da-position="true">
+					<a href="https://m.blog.naver.com/1004najjang/222389760717" class="theme_thumb" data-clk="tcc_lif.list11cont4" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20210713_125%2F1626150298080yX6yl_JPEG%2F2021-07-13_10%253B10%253B15.JPEG%22&amp;type&#x3D;nf340_228" alt="넓은 대면형 구조의 주방" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://m.blog.naver.com/1004najjang/222389760717" class="theme_info" data-clk="tcc_lif.list11cont4" target="_blank">
+						<em class="theme_category"> 리빙</em>
+						<strong class="title elss">넓은 대면형 구조의 주방</strong>
+						<p class="desc">안녕하세요. 리썸 디자인입니다. 나른한 오후처럼 포근함이 스며드는 공간 어떠세요? 화이트 &amp; 우드의 아늑함이 더해진 미니멀 인테리어 공간, 오늘 저희가 준비한 용인 기흥 성산마을 서해그랑블 현장입니다. 히든 도어, 무몰딩 시공으로 깔끔함을 강조한 40평대 아파트 인테리어를 보실 수 있는데요. 여러분이 고민하시는 새 공간, 오늘의 현장을 통해 고민이 해결되셨</p>
+						<div class="source_box">
+							<span class="date">1개월 전</span>
+							<span class="source"><span class="source_inner">리썸 디자인</span></span>
+						</div>
+					</a>
+				</li>
+			
+				<li class="theme_item" data-gdid="60ed15b414bf720dcc209fd5" data-da-position="true">
+					<a href="https://m.blog.naver.com/damda_one/222395649085" class="theme_thumb" data-clk="tcc_lif.list11cont5" target="_blank">
+						<img  data-src="https://s.pstatic.net/dthumb.phinf/?src&#x3D;%22https%3A%2F%2Fs.pstatic.net%2Fshop.phinf%2F20210714_181%2F1626270101149MjHf3_JPEG%2F336_1.jpg%22&amp;type&#x3D;nf340_228" alt="자연을 닮은 화이트 &amp; 우드" width="170" height="114">
+						<span class="thumb_bd"></span>
+					</a>
+					<a href="https://m.blog.naver.com/damda_one/222395649085" class="theme_info" data-clk="tcc_lif.list11cont5" target="_blank">
+						<em class="theme_category"> 리빙</em>
+						<strong class="title elss">자연을 닮은 화이트 & 우드</strong>
+						<p class="desc">안녕하세요 디자인담다입니다. 오늘은 풍경과 채광이 좋은 30평대 아파트 인테리어를 둘러보려 합니다. 이 집은 베란다 바깥으로 4계절의 모습을 볼 수 있어 풍경 자체만으로도 매우 멋진 집이었습니다. 포근하고 안정감 있는 분위기를 선호하는 클라이언트의 성향에 맞추어 집 인테리어 콘셉트는 자연을 닮은 화이트우드 인테리어로 결정하였습니다. 따뜻하면서 포근한 감성이</p>
+						<div class="source_box">
+							<span class="date">1개월 전</span>
+							<span class="source"><span class="source_inner">디자인담다 안양</span></span>
+						</div>
+					</a>
+				</li>
+			
+		</ul>
+	</div>
+</div>
+
+
+
+
+	<div class="btn_more_wrap">
+		<button type="button" class="btn_more" data-clk-custom="tcc_lif.more" data-next-page="2"><i class="ico_more"></i>새로운 글 더보기</button>
+	</div>
+
+
+	</div>
+</div>
+ </div> </div> <div id="NM_INT_RIGHT" class="column_right"> <div class="column_fix_wrap"> <div id="da_brand"></div> 
+
+
+
+
+<div id="account" class="sc_login">
+<h2 class="blind">Sign in</h2>
+<p class="login_msg">Connect with people</p>
+<a href="https://nid.naver.com/nidlogin.login?mode=form&url=https%3A%2F%2Fwww.naver.com" class="link_login" data-clk="log_off.login"><i class="ico_naver"><span class="blind">NAVER</span></i>Sign in</a>
+<div class="sub_area">
+<div class="look_box">
+<a href="https://nid.naver.com/user/help.nhn?todo=idinquiry" class="link_look" data-clk="log_off.searchid">Forgot Username</a>
+<a href="https://nid.naver.com/nidreminder.form" class="link_look" data-clk="log_off.searchpass">Password</a>
+</div>
+<a href="https://nid.naver.com/nidregister.form?url=https%3A%2F%2Fwww.naver.com" class="link_join" data-clk="log_off.registration">Sign up</a>
+</div>
+</div>
+
+
+
+ <div id="timesquare" class="sc_timesquare"> <h2 class="blind">타임스퀘어</h2> <div class="card_wrap">
+<div class="card_nav">
+<a href="#" role="button" class="btn_nav btn_prev" data-clk="squ.pre"><span class="blind">이전</span></a>
+<a href="#" role="button" class="btn_nav btn_next" data-clk="squ.next"><span class="blind">다음</span></a>
+</div>
+<div id="NM_TS_ROLLING_WRAP" style="height: 100%;">
+<div>
+<a href="https://search.naver.com/search.naver?sm=top_hty&amp;fbm=0&amp;ie=utf8&amp;query=%EC%BD%94%EB%A1%9C%EB%82%9819" class="card_news" data-clk="squ.line3"><i class="news_badge">이슈</i><span class="news">코로나바이러스감염증-19 현황</span></a>
+</div>
+<div>
+<a href="https://finance.naver.com/sise/sise_index.nhn?code=KOSPI" class="card_stock " data-clk="squ.kospi">
+<strong class="stock_title">증시</strong>
+<div class="stock_box">
+<em class="name">코스피</em>
+<strong class="current">3,247.38</strong>
+<span class="rate rate_down">29.53 -0.90%</span>
+</div>
+</a>
+</div>
+<div>
+<a href="https://finance.naver.com/sise/sise_index.nhn?code=KOSDAQ" class="card_stock " data-clk="squ.kosdaq">
+<strong class="stock_title">증시</strong>
+<div class="stock_box">
+<em class="name">코스닥</em>
+<strong class="current">1,050.38</strong>
+<span class="rate rate_down">1.60 -0.15%</span>
+</div>
+</a>
+</div>
+<div>
+<a href="https://finance.naver.com/marketindex/exchangeDetail.nhn?marketindexCd=FX_USDKRW" class="card_stock type_exchange" data-clk="squ.usd">
+<strong class="stock_title">환율</strong>
+<div class="stock_box">
+<em class="name">USD</em>
+<strong class="current">1,146.10</strong>
+<span class="rate rate_up">5.10 +0.45%</span>
+</div>
+</a>
+</div>
+</div>
+</div> <!-- EMPTY --> </div>  <div id="veta_branding"> <iframe id="da_iframe_rolling" name="da_iframe_rolling" data-iframe-src="https://siape.veta.naver.com/fxshow?su=SU10601&amp;nrefreshx=0" data-veta-preview="main_rolling" title="광고" width="350" height="200" marginheight="0" marginwidth="0" scrolling="no" frameborder="0"></iframe> <span class="veta_bd_t"></span> <span class="veta_bd_b"></span> <span class="veta_bd_l"></span> <span class="veta_bd_r"></span> </div>   <div id="shopcast" class="sc_shopcast"> <iframe id="shopcast_iframe" data-iframe-src="https://castbox.shopping.naver.com/shoppingboxnew/main.nhn" title="쇼핑캐스트" width="350" height="1539" marginheight="0" marginwidth="0" scrolling="no" frameborder="0"></iframe> </div> </div> </div> <a id="NM_scroll_top_btn" href="#wrap" class="content_top"><span class="blind">TOP</span></a> <button id="NM_darkmode_btn" type="button" role="button" class="btn_theme" aria-pressed="false"  > <span class="blind">라이트 모드로 보기</span> </button> </div> <div id="footer" role="contentinfo"> <div class="footer_inner"> <div class="banner_area"> <div class="da_box_wrap">    <div id="da_public_left"> <iframe id="da_iframe_bottom_left" data-iframe-src="https://siape.veta.naver.com/fxshow?su=SU10641&amp;nrefreshx=0" title="광고" width="350" height="86" scrolling="no" frameborder="0"></iframe> </div> <div id="da_public_right"> <iframe id="da_iframe_bottom_right" data-iframe-src="https://siape.veta.naver.com/fxshow?su=SU10642&amp;nrefreshx=0" title="광고" width="350" height="86" scrolling="no" frameborder="0"></iframe> </div> <div id="veta_time2"> <iframe id="da_iframe_below" name="da_iframe_below" data-iframe-src="https://siape.veta.naver.com/fxshow?su=SU10640&amp;nrefreshx=0" data-veta-preview="main_below" width="350" height="86" scrolling="no" frameborder="0" title="광고"> </iframe> </div> </div> </div> <div class="notice_area" data-clk-prefix="ntc"> <div class="notice_box"> <h3 class="title"><a href="https://www.naver.com/NOTICE">공지사항</a> </h3> <!-- EMPTY --> </div> <a href="more.html" class="link_all" data-clk="svcmap">서비스 전체보기</a> </div> <div class="aside_area"> <div class="partner_box_wrap"> <div class="partner_box" data-clk-prefix="crt"> <h3 class="title">Creators</h3> <a href="https://www.navercorp.com/service/creators" class="link_partner" data-clk="creator">크리에이터</a> <a href="https://www.navercorp.com/service/business" class="link_partner" data-clk="smbusiness">스몰비즈니스</a> </div> <div class="partner_box" data-clk-prefix="crt"> <h3 class="title">Partners</h3> <a href="https://campaign.naver.com/smefullcare/online/" class="link_partner" data-clk="sme">SME 풀케어 시스템</a> <a href="https://business.naver.com/service.html" class="link_partner" data-clk="service">비즈니스 · 광고</a> <a href="https://sell.storefarm.naver.com/#/home/about" class="link_partner" data-clk="store">스토어 개설</a> <a href="https://smartplace.naver.com" class="link_partner" data-clk="place">지역업체 등록</a> <a href="https://expert.naver.com/expert/introduction?tab=guide#join" class="link_partner" data-clk="expert">엑스퍼트 등록</a> </div> <div class="partner_box" data-clk-prefix="crt"> <h3 class="title">Developers</h3> <a href="https://developers.naver.com" class="link_partner" data-clk="center">네이버 개발자 센터</a> <a href="https://developers.naver.com/docs/common/openapiguide/#/apilist.md" class="link_partner" data-clk="openapi">오픈 API</a> <a href="https://naver.github.io" class="link_partner" data-clk="opensource">오픈소스</a> <a href="https://d2.naver.com" class="link_partner" data-clk="d2">네이버 D2</a> <a href="http://d2startup.com" class="link_partner" data-clk="naverD2SF">네이버 D2SF</a> <a href="https://www.naverlabs.com" class="link_partner" data-clk="labs">네이버 랩스</a> </div> </div> <div class="service_box_wrap"> <div class="service_box" data-clk-prefix="wbd"> <a href="http://whale.naver.com/" class="service_logo" data-clk="bt"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAMAAADVRocKAAAC91BMVEUAAACE1dAbf6jE1Nq/z9e82drQ3OG7ytOzws+6x9QNs7MeLpQSx60QrLAfL50gMakTxKyzwc8fMacSr6yywc8fMKIdLYzJ1d4KrrW6ydMJrrUbr6QgMKW2xNEcr6W7ydUfL5cIr7XBztgMtbMeL50fMaQQzrI0tK4cLIQUvqsVvqofMKLL0eGzxM+4xtIZuKcJr7XCyNt0xsILsLW1w9AdLYZwvL8gMaoeLY6CzMceLYyxz9fI1d0JwLMeLY4KrbXFzeAgMqvN2OEIrLUGsrVIurMfLpAcLIIIsbVWs7MeLpXIzt0UvakgMqwfL5x4wcEJsLYfMagWt6k6qqoil6DV2+UdK4EeMoEfLpOzws4/s7YgMacXvqoC27QcK38B17TE1dobKW0bKnID0bTP3OACzrQcKngcLIMbKXAD07QeLYfi6uzY4+YfLpDN2+DK2d0cK3zU4eTS3+IFzLQeL5ccKnXk7O7G19wgMJ3R3uHa5ejL2t7c5unI2Nzg6esBxrMfMKPp7vEeLYrr8fMNr7X2+PkeLYzt8vQE2LTx9fYfLpPz9/gHyLMOsrUHr7UCybQLs7YKu7UIuLUFvLQGwbUIxbQGw7QcKnTZ5OfV4uUJv67e5+rd5+rl7e8Ju6z3+vvm7vDp8PHs8vPw9fbv9PUgMaj6/PwgMqwJs6kNw7AFubULtrUGtbUJvrQEv7QAwq8MrqYKuKsKtqn+/v4Osaf7/P0K1rMHq6UeqKQNqKQhNoIgSH0Vvqoie5MhWIdV3cAcsaYhhZoglJkdLXnJ7+ia5tU61rgp1rceoKIhb4whZYgcM3fj9vJw3sdJx7xtd6sXt6hCT5AvPpAfPYQbKIMcJ34fP3q+8uSy49ux0tWd2NKYzM+A48yE08t6xchdv8FP0b1zfbcSpKIgToEbJ3nE5OG12Nmn19WM5tGKk8ehqMZlxcJJuLwgtLcbvbYc2bUTtaknNpA1Q4bZ7uuzuNuP3M9p0cNfbLUKtq5IVqk8Sp8jZpxaZZrUCA9eAAAAXXRSTlMABAj99BcO6IpfLhj9hPLp5ryyq6ZzXDnd2cuYkHtzbFFOQj0yJv76+ebc29fXx8TCuJuVlIqHgX5gPS0kEvn49/f08O3t6+fj2tLR0MzGeGNfWvbz7sXBpYN4PB4CDkIdAAAFcUlEQVRo3q3TdVwTYRjA8eeI0SKgYnd3d3d362tgO7u7Y4rd3d2K4pwwQkAQJUSxu7vbPzwYg9vufe+eO/neP9vtPr/n7t53gFMobxXPVu719pu4t/LM2a4gBwioeGZP9/0U9TyrFEyHepUSeyW45+wB/8GmXetZskpkdlGbz+w+CyVDThdV+QyT0FSMyFtikiIZMnOggIvnOMWaFwS0LBkkQj/q/mL8UpVDvv2ui6V89XvF+qm1C2rnNx8u6ferq8zfGlcHWdUbD/8PtbPI7p7aC5R49Mn6TFWZ5Z2jzKNPolOVJPtD04HEhLxFh6YH5lsqWHQQ1dVBCjFW2qUJo+8Xq3BAUeputenci27Qo6u9FGpC+8dV6pUODAZDQkKCwdAFRNz+s2wMiYwbQkwi7oWVBCvOHUep9yQkTkfMIsIv+/HygKVigaPoYuMFX+InGEQXJIS4kjRBN/b5JZutAaHcxDhQ3gVD7AWrU0a9TpgPO5OqnMUOciWJA9O8jh+IYwwmAhE39gnMrwFpchByQXCjn/kvCOf1ROil7z4LgnWuVZiQ8UpFh/gTgYs3tlvzFj4AiVbYN7oSoaDL20VaQAou6drE9UpcCCUWruyeL+ZbM3UL8Yw+YrHD4n2ozgdY9X3n05g3UnHCC6R0Xvv9pfaj/ImFoN3zqbQcJOlJkugpofWfafnoSGIp4rIvg5N5iXn+0aIS7vUQ/zBfFtMyFyPJogajXOpHrIQvYprNJf0JiEkAJu8TQqwF7VnE5mTaQyaX5PvRwUQkbLeEpH1UhqRw9ZHrP3ElInf3SOkEABmJWWhfaVG9iciHywulzNWAjY6kuiSV9wklFOELpeWHAsINZ2T3+d1JcXHrLmkVITcRGMJ8hsDehCZ8rozSkINYCKTmn8QRQn8AuQElwYtYCj4vyieG6gjdy51y6kMZYkUXmmj58kP9CcOHL7PlaKElEdEFR5031wPjCNvd2fKgOKHqF6CP1AeI7j1k+PA/aSfDdsiDjESBgDm8SJIiaCuCsgH6a7xAkuLmBASFA67zzAMuanEDdAoUHvX06dNgncldLQYU763Ex6hLkebPz7TaCfIHtOyt0kMtCpRROyAc1R8GXvy1Q1Qc/htmYNQFtyHqXEH1N2eD9ioH3NyM4gHO/VSJ2IKTC7ixqgZ8m4bjDVBMTb/waFx/IwfgNUCFK1NwHACgvZoBN5EDMgGAzRJWZSyz/3ADkjfwGo1V7PYwnPoc8MovZ2Dll18cjRzgAUnsDy5hYE24NwwpPyRrNJNuOcOSZxtx7MCk2kG6JQzfRyM5Qooix2lmsjxH9qdqIEX5TTRrGR6OQcoEZlwRSp/5BC/GjEYdI+whVfltYgfX0sXgH0CgiKh/fB3D7ck4thoQqHbS2kFGP2YyUi6w0OyUpW1rGG73x3HgwIJ98AGhU0cZ/Rhkf2oNsNLGYsC2YwwvkAMcQaTZ6TQfjzK8QfazcSDCdTiRajXD++cjUOzsgaKG3tz/uZLhHq4/PT9QVTt3NtmB1QwxI3EDnIChzeNzvLMrGd7fmoriCEyVH/P9Qyx3cP2KAJITDq9iuD8SxREkdT/C6j+Yjup3A0nOTQ8zPJiIyds6gaQCDY8wvJk4HcHOGyS1XbqC4f50jNL2IMWmwlKGd3cmItjmknn92VcwvL2F6ZeqKX37bszbv98HwU5mdfNlncfw4FYf3kSpg887aqQ3T1lW/u2dPnLk8/nKLmMoW9nDVjZfyomTzjdl1BtWcAYA+zylpGY4ONYEOc5u2evMs5a1QoHU+9I4ZXKwpcU98tgDDufc1s0re9YGdZYta5A1u5dbvlpgReOdp6JHNgc7fpCtnUO20ply5UfG/wEFXaai/lOVTwAAAABJRU5ErkJggg==" alt="웨일" width="48" height="48"> </a> <div class="service_info"> <strong class="title">웨일 브라우저</strong> <a href="http://whale.naver.com/" class="dsc" data-clk="bt">다운받기</a> </div> </div> <div class="service_box" data-clk-prefix="prj"> <a href="https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=1&ie=utf8&query=%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%BD%83" class="service_logo" data-clk="link"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF4AAABkCAMAAAA47XeXAAAAgVBMVEUAAADN5PdGm99Gm99Gm99Gm99Gm95Gm99Gm99Gm99Gm99Gm99Gm99Gm99Gm99Gm99Gm99Gm99Gm99Gm99Gm99Gm99Gm99Gmt9Gm99Gm99Gm99Gm95Gm99Gm99Gm95Gm99Hm99Gm99Gm9/////3+/5cp+LO5PfR5/fO5fdcp+P7/f/zv5GhAAAAInRSTlMA/v7vH9u5qJNgGwb6l8a9uqF9WFUyLxYMCtbVmLCwe4OCj8gzEgAAA0NJREFUaN7NmmFz4iAQhkkwMTHGWrWtWvWuq8mF+/8/8Ey2nb0OhSwQZnw+MHQ7pbjAy2s2gsuiLPJMLpcyy4tyISZltnmHbxw3MzEVr/MUNNL5q5iCt2ccXCN9fhPB7CQYkTsRRlWDlboSAexzGCHfC28OKxhldfDOzBMwePLNTw0sauHFFphshQcLCUwkaQRfXYBPSkrEUBdv3jezcXXhw1ciUhc+fCUidQlH7qzqEk5d2dQlnHxvU5dwVgdXdSGclaiGyamt6hLO1qIu4ZASzcFE092SBprk1jagulvXAAw/qb5N7m176xQYmOPoLymYaK/X65/PNhlagE6LGUhfRM8FjNzuf/73//bHmInzoJEpjMyeWpp9RzGz/PT6+QvMNO2Q+67PPeYZY5h7jDVg5OM+/BGikd13JfDAj/Ad1WLMyEyUwKPT00ypN1GKAljQJtFiFgqRe86eYhbWIvPPPR5d+9pKiIgUwKNJdHXBvW9jyRye1EWLWYfnJcd141Byspizz7gbUyWDuqiW0v15D9g3ZgF86JwyKUgUHJaATUmS5rsEdkkTZLjZS8Alw+skFr8Nl6H6uosShaKOp3Zo+/jgFTDe+wcSfv0yFGfQaLX7tDO0reXOPRuMCG4Q11Y3IiYblWgzS7R+h31qdRtlGB7zikeUckz+AB3a8FuMqD7Cd2nhUHLOEIkLubQIkEuLxIdwEwUy3HyXxsbgPMJcGuGox+TSIugxuTQ+KHIaAS5N92eIIuMT5tJoPfHy5q9yKoXLelLuKRri0mjMQdhwTPw6Sv8pzKXhFyhNilEwkSCXRrnAnaPnJdyl0UrqXircpeHVglnv+62K4NJo3lFcGmWd79KO7OQoXAE8XNO6tIQGxj7fpfHTwk8RubQLWEGvgTNGKzj01fixunCMCCYcvSSlaFwUyKVx86J3bczpUR3zimq1LqdosAUbJF54ar+uk5Gju436mPTk8ZAXFdO93HRYTesUVgf3B+y0XdxLfdVputmfKp/iBtNjyl3c0kzUwtJIWewIPvAL9LOyWLsV9WAps3VRzh6hJBm3oOqsRKfHLGYzS/GP+iLBuBKdqkd+iWPkFZTHf4Em4us/uhI5qss/6zK5u8+AXpwAAAAASUVORK5CYII=" alt="꽃" width="47" height="50"> </a> <div class="service_info"> <strong class="title">프로젝트 꽃</strong> <a href="https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=1&ie=utf8&query=%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%BD%83" class="dsc" data-clk="link">바로가기</a> </div> </div> </div> </div> <div class="corp_area" data-clk-prefix="plc"> <h3 class="blind">네이버 정책 및 약관</h3> <ul class="list_corp"> <li class="corp_item"><a href="https://www.navercorp.com" data-clk="intronhn">회사소개</a></li> <li class="corp_item"><a href="https://recruit.navercorp.com/naver/recruitMain" data-clk="recruit">인재채용</a></li> <li class="corp_item"><a href="https://www.navercorp.com/naver/proposalGuide" data-clk="contact">제휴제안</a></li> <li class="corp_item"><a href="/policy/service.html" data-clk="service">이용약관</a></li> <li class="corp_item"><a href="/policy/privacy.html" data-clk="privacy"><strong>개인정보처리방침</strong></a></li> <li class="corp_item"><a href="/policy/youthpolicy.html" data-clk="youth">청소년보호정책</a></li> <li class="corp_item"><a href="/policy/spamcheck.html" data-clk="policy">네이버 정책</a></li> <li class="corp_item"><a href="https://help.naver.com/" data-clk="helpcenter">고객센터</a></li> </ul> <address class="addr"><a href="https://www.navercorp.com" target="_blank" data-clk="nhn">ⓒ NAVER Corp.</a></address> </div> </div> </div> </div> <div id="adscript" style="display:none"></div> </body> </html>

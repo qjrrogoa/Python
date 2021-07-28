@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hello Flask</title>
+    <link rel="stylesheet" href="{{url_for('static',filename='styles/style.css')}}">
+    <script src="{{url_for('static',filename='js/jquery-3.6.0.min.js')}}"></script>
+    <script>
+        $(function(){
+            $('#ajax').click(function(){
+                console.log('ajax 요청입니다')
+                $.ajax({
+                    url:"/ajax",
+                    data:JSON.stringify({'name':'가길동'}),
+                    type:'post',
+                    dataType:'json',
+                    success:function(data){
+                        console.log('서버에서 받은 데이터:',data);
+                    },
+                    error:function(e){
+                        console.log('에러:',e);
+                    }
+                })
+            });
+        });
+    </script>
+</head>
+<body>
+    <h2>템플릿 파일입니다.</h2>
+    <img src="{{url_for('static',filename='images/flask.png')}}" alt="이미지"/>
+    <hr/>
+    <a href="#" id="ajax">AJAX 요청</a>
+</body>
+</html>
